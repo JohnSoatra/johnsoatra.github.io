@@ -1,0 +1,2 @@
+# options.add_argument("user-data-dir=/Users/soatra/Library/Application Support/Google/Chrome Selenium")
+# options.add_argument("profile-directory=Default")

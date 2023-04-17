@@ -1,0 +1,12 @@
+1675999106147	geckodriver	INFO	Listening on 127.0.0.1:55152
+1675999106626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55153" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4v/wmm7yyjx2xbgnd4vp_nt455w0000gn/T/rust_mozprofileqi8Qbm"
+1675999107214	Marionette	INFO	Marionette enabled
+1675999107238	Marionette	INFO	Listening on port 55158
+Read port: 55158
+WebDriver BiDi listening on ws://127.0.0.1:55153
+1675999107354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4v/wmm7yyjx2xbgnd4vp_nt455w0000gn/T/rust_mozprofileqi8Qbm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55153/devtools/browser/2011e79d-a031-4491-beef-8371bc990c1e
+Exiting due to channel error.
+Exiting due to channel error.

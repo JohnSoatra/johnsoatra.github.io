@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            padding: 0px;
+            margin: 0px;
+        }
+        div#container {
+            width: 200px;
+            height: 200px;
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <button id="test">test</button>
+    </div>
+    <script>
+        const container = document.getElementById('container');
+        const test = document.getElementById('test');
+        
+        container.onpointerdown = () => {
+            console.log('pointer down');
+        }
+        test.onpointerdown = () => {
+            console.log('pointer child');
+        }
+        test.onclick = () => {
+            console.log('clicked');
+            test.parentElement.dispatchEvent(new PointerEvent('pointerdown', { bubbles: true }));
+        }
+    </script>
+</body>
+</html>

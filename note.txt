@@ -1,0 +1,233 @@
+options.add_argument("user-data-dir=/Users/soatra/Library/Application Support/Google/Chrome")
+options.add_argument("profile-directory=Default")
+# options.add_argument('no-sandbox')
+# options.add_argument('headless')
+# options.add_argument('disable-dev-shm-usage')
+# options.add_argument('--disable-infobars')
+-----
+mainLinks = []
+        a = driver.find_element(by=By.CLASS_NAME, value='tab2UnSelected')
+        ul = driver.find_element(by=By.XPATH, value='//div[@class="tab-area"]//ul[@class="ul-normal"]')
+        anchors = ul.find_elements(by=By.TAG_NAME, value='a')
+        mainLinks += list(map(lambda a: a.get_attribute('href'), anchors))
+        
+        # after a is clicked every changes
+        a.click()
+
+        a = driver.find_element(by=By.CLASS_NAME, value='tab2UnSelected')
+        ul = driver.find_element(by=By.XPATH, value='//div[@class="tab-area"]//ul[@class="ul-normal"]')
+        anchors = ul.find_elements(by=By.TAG_NAME, value='a')
+        mainLinks += list(map(lambda a: a.get_attribute('href'), anchors))
+
+        for href in mainLinks:
+            print(href)
+-----
+# options.add_argument("user-data-dir=/Users/soatra/Library/Application Support/Google/Chrome Selenium")
+# options.add_argument("profile-directory=Default")
+# options.add_argument('headless')
+-----
+class Crawler:
+    global options
+
+    sitemap = 'https://www.city.ichihara.chiba.jp/home',
+    a_sitemap_selector = [
+        '//div[@class="tab-area"]//ul[@class="ul-normal"]//a'
+    ],
+    a_sub_page_selector = [
+        '//ul[@class="row ul-normal"]//a',
+        '//div[@class="article-lv3category"]/ul[@class="ul-normal"]//a'
+    ],
+    content_selector = '//div[@class="htmlContent html_content"]/*',
+    title_selector = '//div[@class="lv3Catagory"]/div[@role="heading"]',
+    update_at_selector = '//div[@class="article-date"]',
+    contact_selector = '//div[@class="contact-address-label"]',
+    abstract_selector = '//div[@class="htmlContent html_content"]/p',
+    test_mode = True
+
+    async def crawler(self):
+        try :
+            driver = webdriver.Chrome(options=options)
+            driver.get(self.sitemap)
+            mainLinks = []
+
+            for selector in self.a_sitemap_selector:
+                try:
+                    elements = driver.find_elements(By.XPATH, selector)
+                    mainLinks += list(map(lambda element: element.get_attribute('href'), elements))
+                except: pass
+
+            if mainLinks:
+                for link in mainLinks:
+                    yield self.subWork(link)
+
+            driver.quit()
+
+        except Exception as ex:
+            print(ex)
+
+    async def subWork(self, link):
+        try:
+            driver = webdriver.Chrome(options=options)
+            driver.get(link)
+            subLinks = []
+
+            for selector in self.a_sub_page_selector:
+                try:
+                    elements = driver.find_elements(By.XPATH, selector)
+                    subLinks += list(map(lambda element: element.get_attribute('href'), elements))
+                except: pass
+
+            if len(subLinks):
+                for link in subLinks:
+                    yield self.subWork(link)
+            else:
+                yield self.detailWork(driver)
+            
+        except: pass
+    
+    async def detailWork(self, driver):
+        try:
+            title = driver.find_element(By.XPATH, self.title_selector)
+            contact = driver.find_element(By.XPATH, self.contact_selector)
+            if title and contact:
+                print('title =', title.text)
+                print('contact =', contact.text)
+        except: pass
+------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        [contentEditable=true]:empty:before {
+            content: attr(placeholder);
+            pointer-events: none;
+            color: #8e8e8e;
+        }
+        [contentEditable=true] {
+            outline: none;
+            border: 1px solid transparent;
+            border-radius: 10px;
+            padding: 20px;
+            width: 200px;
+        }
+        [contentEditable=true]:focus {
+            border-color:blue;
+        }
+    </style>
+</head>
+<body>
+    <form action="." method="get">
+        <!-- <input type="text" placeholder="test placeholder"> -->
+        <div id="edit" contenteditable="true" placeholder="write content..."></div>
+        <textarea name="" id="" cols="30" rows="10" placeholder="test"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <script>
+        const div = document.getElementById('edit');
+
+        div.onkeyup = (evt) => {
+            if (div.innerText === '\n' || div.innerText === '\r\n') {
+                div.innerHTML = '';
+            }
+        }
+        
+        //div.DOMCharacterDataModified = (evt) => {
+        //    console.log('change');
+        //}
+        
+    </script>
+</body>
+</html>
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        [contentEditable]:empty:before {
+            content: attr(placeholder);
+            pointer-events: none;
+            color: #8e8e8e;
+        }
+        [contentEditable] {
+            outline: none;
+            border: 1px solid transparent;
+            border-radius: 10px;
+            padding: 20px;
+            width: 200px;
+        }
+        [contentEditable]:focus {
+            border-color:blue;
+        }
+    </style>
+</head>
+<body>
+    <form action="." method="get">
+        <!-- <textarea type="text" placeholder="test placeholder" maxlength="3"></textarea> -->
+        <div
+            id="edit"
+            contenteditable="plaintext-only"
+            placeholder="write content..."
+            max-length="3"></div>
+        <h1 style="background-color: red; color: white;">Test</h1>
+        <!-- <textarea name="" id="" cols="30" rows="10" placeholder="test"></textarea> -->
+        <button type="submit">Submit</button>
+    </form>
+    <script>
+        const div = document.getElementById('edit');
+
+        div.onkeydown = (evt) => {
+            console.log('down');
+        }
+
+    </script>
+</body>
+</html>
+----------
+#!python3
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+import time
+
+url = 'https://gmo-connect.com/search/category/23/23001'
+options = webdriver.ChromeOptions()
+driver = webdriver.Chrome(options=options)
+driver.get(url)
+items = ""
+
+def clicker():
+    global items
+    
+    try:
+        wait = WebDriverWait(driver, 20)
+        wait.until(lambda d: d.find_elements(By.XPATH, '//div[@class="card-content-result-summary"]//div[@class="suppliers-user"]'))
+        divs = driver.find_elements(By.XPATH, '//div[@class="card-content-result-summary"]//div[@class="suppliers-user"]')
+        for div in divs:
+            items += div.get_attribute('outerHTML')
+        button = driver.find_element(By.XPATH, '//div[@class="pagination"]/div[4][not(contains(@class, "btn-disabled"))]')
+        button.click()
+        clicker()
+
+    except:
+        try:
+            button = driver.find_element(By.XPATH, '//div[@class="pagination"]/div[4][not(contains(@class, "btn-disabled"))]')
+            if button:
+                clicker()
+        except:
+            f = open('test.html', 'w')
+            f.write(items)
+            f.close()
+            print('done')
+  
+clicker()
+  
+time.sleep(1000000)
+
