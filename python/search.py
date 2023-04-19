@@ -32,5 +32,6 @@ def getAll():
         )
         text = response.text
         print(f'\n--- {text} ---\n')
-getOne()
+
+getOne('Try Kimtrai')
 # getAll()

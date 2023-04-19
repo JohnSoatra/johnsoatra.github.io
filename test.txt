@@ -1549,3 +1549,231 @@
 					<a href="javascript:void(0);" id="nlist_anc_dw_MY0019172" onfocus="this.blur();"></a>
 				</td>
 			</tr>
+----------
+https://www.e-map.ne.jp/p/msins01/nmap.htm?&p_s1=msins01&p_f3=1&&cond1=1&cond6=1&&&his=el%2CelT&lat=35.7103194&lon=139.3641083
+https://www.e-map.ne.jp/p/msins01/nmap.htm?&p_s1=msins01&p_f3=1&&cond1=1&cond6=1&&&his=el%2CelT&lat=35.7248444&lon=139.2898639
+https://www.e-map.ne.jp/p/msins01/nmap.htm?&p_s1=msins01&p_f3=1&&cond1=1&cond6=1&&&his=el%2CelT&lat=35.6517667&lon=139.7468722
+https://www.e-map.ne.jp/p/msins01/nmap.htm?&p_s1=msins01&p_f3=1&&cond1=1&cond6=1&&&his=el%2CelT&lat=35.774825&lon=139.7240889
+----------
+length=4
+token=3
+window=2
+-------------
+if ended:
+                driver.close()
+                exit(0)
+
+            # if last:
+            #     f_read.close()
+            #     f_write.close()
+            #     print('done')
+-----------
+opt = {
+    'auto_config': False,
+    'addr': '0.0.0.0',
+    'proxy': {
+        'http': f'http://{user}:{password}{proxy}:{port}',
+        'https': f'https://{user}:{password}{proxy}:{port}'
+    }
+}
+driver = uc.Chrome(
+    desired_capabilities=options,
+    seleniumwire_options=opt
+)
+# {
+    #     'proxy': '178.33.3.163',
+    #     'port': '8080'
+    # },
+    # {
+    #     'proxy': '154.236.179.229',
+    #     'port': '1976'
+    # },
+    # {
+    #     'proxy': '167.172.173.210',
+    #     'port': '44879'
+    # },
+    # {
+    #     'proxy': '161.35.214.127',
+    #     'port': '44451'
+    # },
+	
+	{
+        'proxy': '190.61.88.147',
+        'port': '8080'
+    },
+--------------------------
+#!python3
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from threading import Thread
+from datetime import datetime
+import pandas
+import argparse
+import re
+import time
+
+read_file = 'test.csv'
+save_file = 'test.html'
+
+f_clear = open(save_file, 'w')
+f_clear.write('')
+f_clear.close()
+
+f_read = open(save_file, 'r')
+f_write = open(save_file, 'a')
+
+reader = pandas.read_csv(read_file)
+
+def worker(driver, ended):    
+    try:
+        wait = WebDriverWait(driver, 30)
+        wait.until(lambda d: d.find_elements(By.XPATH, '//table[@id="kyotenListTable"]//tr'))
+        trs = driver.find_elements(By.XPATH, '//table[@id="kyotenListTable"]//tr')
+        
+        for tr in trs:
+            tr_text = tr.get_attribute('outerHTML')
+            td_id = tr.find_element(By.XPATH, './td').get_attribute('id')
+            all_text = f_read.read()
+            
+            if not td_id in all_text:
+                f_write.write(tr_text)
+
+        button = driver.find_element(By.XPATH, '//table[@id="kyotenListHeader"]//a[text()="次へ"]')
+        button.click()
+        
+        worker(driver, ended)
+        
+    except:
+        try:
+            button = driver.find_element(By.XPATH, '//table[@id="kyotenListHeader"]//a[text()="次へ"]')
+            worker(driver, ended)
+        except:
+            if ended:
+                driver.close()
+                time.sleep(10000)
+            
+
+def main(start, end):
+    global items
+    # threads = []
+    
+    options = webdriver.ChromeOptions()
+    # options.add_argument("--headless")
+    driver = webdriver.Chrome(options=options)
+    
+    for record in range(start, end):
+        line = reader.values[record]
+        link = line[0]
+        ended = record == end - 1
+        
+        now = datetime.now()
+        current_time = now.strftime("%H:%M:%S")
+        print('record = ', record)
+        print(f'{current_time}: {link}\n')
+        
+        driver.get(link)
+        worker(driver, ended)
+        # thread = Thread(
+        #     target = worker,
+        #     kwargs = {
+        #         'driver': driver,
+        #         'last': last,
+        #         'ended': ended
+        #     }
+        # )
+        # thread.start()
+        # thread.join()
+        # threads.append(thread)
+    
+    # for each_thread in threads:
+    #         each_thread.join()
+
+if __name__ == '__main__':
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--start', '-s')
+    parser.add_argument('--end', '-e')
+    args=parser.parse_args()
+    
+    start = int(args.start)
+    end = int(args.end)
+    
+    if end > len(reader.values):
+        end = len(reader.values)
+        
+    if start != end:
+        main(start, end)
+------------
+https://www.e-map.ne.jp/p/msins01/nmap.htm?&p_s1=msins01&p_f3=1&&cond1=1&cond6=1&&&his=el%2CelT&lat=35.7103194&lon=139.3641083
+https://www.e-map.ne.jp/p/msins01/nmap.htm?&p_s1=msins01&p_f3=1&&cond1=1&cond6=1&&&his=el%2CelT&lat=35.7248444&lon=139.2898639
+https://www.e-map.ne.jp/p/msins01/nmap.htm?&p_s1=msins01&p_f3=1&&cond1=1&cond6=1&&&his=el%2CelT&lat=35.6517667&lon=139.7468722
+-----------
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+import seleniumwire.undetected_chromedriver as uc
+import time
+import requests
+import bs4
+from threading import Thread
+from urllib3.exceptions import InsecureRequestWarning
+from urllib3 import disable_warnings
+
+url = "https://itp.ne.jp/search?size=1&from=0&kw=%E4%BF%9D%E9%99%BA%E4%BB%A3%E7%90%86%E5%BA%97"
+
+proxies = [
+    {
+        'proxy': '100.21.80.30',
+        'port': '80'
+    },
+    {
+        'proxy': '125.17.80.229',
+        'port': '8080'
+    },
+    {
+        'proxy': '125.17.80.228',
+        'port': '8080'
+    }
+]
+
+
+# def work(each_proxy):
+#     print('at ', each_proxy['proxy'])
+#     options = webdriver.ChromeOptions()
+#     options.add_argument(f'--proxy-server={each_proxy["proxy"]}:{each_proxy["port"]}')
+#     driver = webdriver.Chrome(options=options)
+#     driver.get(url + f'&testing={each_proxy["proxy"]}')
+    
+#     time.sleep(100000)
+
+# threads = []
+
+# for each_proxy in proxies:
+#     threads.append(
+#         Thread(
+#             target = work,
+#             kwargs = {
+#                 'each_proxy': each_proxy
+#             }
+#         )
+#     )
+    
+# for each_thread in threads:
+#     each_thread.start()
+
+# for each_thread in threads:
+#     each_thread.join()
+    
+# time.sleep(10000)
+http = f'http://{proxies[1]["proxy"]}:{proxies[1]["port"]}'
+https = f'http://{proxies[1]["proxy"]}:{proxies[1]["port"]}'
+
+res = requests.get(
+    url=url,
+    verify=False,
+    proxies={
+        'http': http,
+        'https': https
+    },
+)
+print(res)

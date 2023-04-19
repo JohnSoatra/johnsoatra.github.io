@@ -1,3 +1,5 @@
+python3 setup.py install --user
+------------
 options.add_argument("user-data-dir=/Users/soatra/Library/Application Support/Google/Chrome")
 options.add_argument("profile-directory=Default")
 # options.add_argument('no-sandbox')
@@ -231,3 +233,5 @@ clicker()
   
 time.sleep(1000000)
 
+----------
+10

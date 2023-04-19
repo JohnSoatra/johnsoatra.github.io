@@ -21,6 +21,12 @@ def main():
         process.start()
         processes.append(process)
 
+        if (i + 1) % 2 == 0:
+            for process in processes:
+                process.join()
+            process = []
+            print('i = ', i)
+        
 
 if __name__ == '__main__':
     main()
