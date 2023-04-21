@@ -1,5 +1,8 @@
 #!python3
 from util import util
+import time
+from datetime import datetime
+import calendar
 
 lis = [
     {
@@ -13,6 +16,8 @@ lis = [
 ]
 
 
-a = util.find(lambda item: item['name'] == 'Soatra', lis)
+current_GMT = time.gmtime()
 
-print(a)
+time_stamp = calendar.timegm(current_GMT)
+print(time.time())
+print(time_stamp)

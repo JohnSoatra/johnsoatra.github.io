@@ -235,3 +235,6 @@ time.sleep(1000000)
 
 ----------
 10
+----------------
+button = driver.find_element(By.XPATH, '//button[@class="o-result-control__sort__list__item__button is-active"]')
+button.click()

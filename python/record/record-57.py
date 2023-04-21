@@ -2,7 +2,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
-from datetime import datetime
+from util import util
 import time
 
 def clicker(driver):
@@ -13,10 +13,7 @@ def clicker(driver):
         button = driver.find_element(By.XPATH, '//button[@class="m-read-more u-hover"]')
         button.click()
         
-        now = datetime.now()
-        current_time = now.strftime("%H:%M:%S")
-        print(f'{current_time}: clicking')
-        
+        print(f'{util.now()}: clicking')
         clicker(driver)
         
     except:
@@ -24,12 +21,10 @@ def clicker(driver):
         print('\n--- done ---\n')
 
 def main():
-    url = 'https://itp.ne.jp/keyword/?keyword=%E4%BF%9D%E9%99%BA%E4%BB%A3%E7%90%86%E5%BA%97&sort=01&sbmap=false'
+    url = 'https://itp.ne.jp/keyword/?keyword=%E4%BF%9D%E9%99%BA%E4%BB%A3%E7%90%86%E5%BA%97'
     option = webdriver.ChromeOptions()
     driver = webdriver.Chrome(options=option)
     driver.get(url)
-    button = driver.find_element(By.XPATH, '//button[@class="o-result-control__sort__list__item__button is-active"]')
-    button.click()
     
     clicker(driver)
     

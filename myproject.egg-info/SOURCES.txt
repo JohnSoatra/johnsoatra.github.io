@@ -6,4 +6,5 @@ myproject.egg-info/top_level.txt
 test/__init__.py
 test/test.py
 util/__init__.py
+util/crawler.py
 util/util.py

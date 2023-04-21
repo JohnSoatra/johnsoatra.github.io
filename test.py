@@ -1,10 +1,17 @@
 #!python3
-import time
 from util import util
+import requests
+import time
+import pandas
 
-for i in range(0, 10):
-    print(util.now())
-    time.sleep(2)
-    
-    
 
+class Test:
+    
+    def __init__(self) -> None:
+        self.__a = 0
+        
+    def run(self):
+        print(self.__a)
+
+a = Test()
+print(a.__a)
