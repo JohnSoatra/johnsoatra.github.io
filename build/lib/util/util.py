@@ -1,9 +1,38 @@
 from selenium.webdriver.common.by import By
 from datetime import datetime
 from urllib.parse import urljoin
+from gtts import gTTS
 import re
+import io
+import contextlib
+import time
+
+with contextlib.redirect_stdout(None):
+    import pygame
 
 # general
+
+def time_passed(start, sec):
+    return int(time.time()) - start >= sec
+
+def alert_sound(text):
+    try:
+        sound = io.BytesIO()
+        
+        gt = gTTS(text)
+        gt.write_to_fp(sound)
+        
+        sound.seek(0)
+        
+        pygame.mixer.init()
+        pygame.mixer.music.load(sound)
+        pygame.mixer.music.play()
+        
+        while pygame.mixer.music.get_busy():
+            pygame.time.Clock().tick(10)
+            
+    except:
+        pass
 
 def now():
     now = datetime.now()

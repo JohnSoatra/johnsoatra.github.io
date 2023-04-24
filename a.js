@@ -35,3 +35,5 @@ function looper(
 
 const res = looper(chars, 4);
 console.log(res.join(','))
+
+document.getElementById().innerText

@@ -1,17 +1,14 @@
 #!python3
-from util import util
-import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
 import time
-import pandas
 
-
-class Test:
+a = webdriver.Chrome()
+a.set_page_load_timeout(0)
+a.get('https://www.mirasapo.jp/subsidies?page=2')
     
-    def __init__(self) -> None:
-        self.__a = 0
-        
-    def run(self):
-        print(self.__a)
 
-a = Test()
-print(a.__a)
+print('done')
+
+time.sleep(10000)
