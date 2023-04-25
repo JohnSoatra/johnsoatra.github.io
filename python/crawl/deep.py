@@ -4,10 +4,12 @@ from util.crawler import Crawler
 from selenium.webdriver.common.by import By
 import re
 
-def generate_urls(length = 118):
+# 0 - 118
+# 118 - 168
+def generate_urls(start, end):
     urls = []
     
-    for i in range(0, length):
+    for i in range(start, end):
         urls.append(f'https://www.mirasapo.jp/subsidies?page={i + 1}')
     
     return urls
@@ -49,14 +51,15 @@ field_xpath = {
 
 a = Crawler(
     headless = False,
-    urls_start = generate_urls(),
+    urls_start = generate_urls(118, 122),
     next_xpath = '//a[@class="card-link"]',
     field_xpath = field_xpath,
     detail_page = lambda driver: True if re.match(r'.*/subsidy/[0-9]+.*', driver.current_url) else False,
     robot_page = robot_page,
     exit_wait=10000,
     threads=4,
-    filter_items=False
+    filter_items=False,
+    save_to='test-3.csv',
 )
 # [
 #         'https://www.mirasapo.jp/subsidies?page=2'
