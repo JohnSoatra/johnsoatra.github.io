@@ -1,2 +1,0 @@
-offsetHeight is all
-offsetTop is from screen angle
