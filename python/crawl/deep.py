@@ -4,8 +4,13 @@ from util.crawler import Crawler
 from selenium.webdriver.common.by import By
 import re
 
+# [
+#         'https://www.mirasapo.jp/subsidies?page=2'
+#     ]
+
 # 0 - 118
 # 118 - 168
+
 def generate_urls(start, end):
     urls = []
     
@@ -61,7 +66,4 @@ a = Crawler(
     filter_items=False,
     save_to='test-3.csv',
 )
-# [
-#         'https://www.mirasapo.jp/subsidies?page=2'
-#     ]
 a.run()
