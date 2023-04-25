@@ -37,7 +37,7 @@ class Crawler:
         wait_td_time = 25,
         wait_a_next_time = 1,
         exit_wait = 0,
-        page_load_timeout = 4,
+        page_load_timeout = 5,
         
         # optional
         threads = 10,
@@ -133,11 +133,8 @@ class Crawler:
                 None,
                 loop_urls,
             )
-            
-            # if i == end - 1:
-            #     driver.close()
                 
-    def __deep_worker(self, driver , items, prev_source, loop_urls):
+    def __deep_worker(self, driver , items, prev_source, loop_urls):        
         start_time = int(time.time())
         
         while self.__robot_page(driver):
@@ -157,7 +154,6 @@ class Crawler:
                 return
             
             time.sleep(2)
-            
         
         # print(f'{util.now()}: {driver.current_url}')
         
@@ -348,18 +344,29 @@ class Crawler:
                 break
             
             except:
-                if driver.current_url != 'data:,':
-                    break
-                
-                else:
-                    try:
-                        driver.close()
-                        driver = self.__create_driver()
+                try:
+                    if driver.current_url != 'data:,':
+                        break
+                    
+                    else:
+                        while True:
+                            try:
+                                driver.quit()
+                                driver = self.__create_driver()
+                                break
+                            
+                            except:
+                                time.sleep(1)
+                            
+                except:
+                    while True:
+                        try:
+                            driver.quit()
+                            driver = self.__create_driver()
+                            break
                         
-                    except:
-                        pass
-            
-                time.sleep(1)
+                        except:
+                            time.sleep(1)
         
         driver.set_page_load_timeout(1000000)
         
@@ -367,6 +374,7 @@ class Crawler:
 
     def __create_driver(self):
         options = webdriver.ChromeOptions()
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
         
         if self.__headless:
             options.add_argument("--headless")
@@ -374,4 +382,3 @@ class Crawler:
         driver = webdriver.Chrome(options=options)
         
         return driver
-    

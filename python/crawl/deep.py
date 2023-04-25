@@ -56,7 +56,7 @@ field_xpath = {
 
 a = Crawler(
     headless = False,
-    urls_start = generate_urls(118, 122),
+    urls_start = generate_urls(136, 140),
     next_xpath = '//a[@class="card-link"]',
     field_xpath = field_xpath,
     detail_page = lambda driver: True if re.match(r'.*/subsidy/[0-9]+.*', driver.current_url) else False,
