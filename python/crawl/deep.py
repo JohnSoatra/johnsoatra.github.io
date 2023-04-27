@@ -56,7 +56,7 @@ field_xpath = {
 
 a = Crawler(
     headless = False,
-    urls_start = generate_urls(136, 140),
+    urls_start = generate_urls(225, 250),
     next_xpath = '//a[@class="card-link"]',
     field_xpath = field_xpath,
     detail_page = lambda driver: True if re.match(r'.*/subsidy/[0-9]+.*', driver.current_url) else False,
@@ -64,6 +64,13 @@ a = Crawler(
     exit_wait=10000,
     threads=4,
     filter_items=False,
-    save_to='test-3.csv',
+    save_to='test-225-250.csv',
 )
+
+# 500 - 520
+# 504 - 520
+# 750 - 800
+# 800, 850
+# 850, 900
+
 a.run()
