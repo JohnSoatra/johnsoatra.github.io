@@ -3,5 +3,5 @@
 /build
 /dist
 /myproject.egg-info
-/test
-/files
+# /files
+# /test

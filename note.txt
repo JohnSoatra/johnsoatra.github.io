@@ -1,0 +1,19 @@
+def clean_html(raw):
+    cleaner = re.compile('<.*?>')
+    cleaned_text = re.sub(cleaner, '', raw)
+    
+    return cleaned_text
+
+def remove_tags(text):
+    parse = etree.HTMLParser(recover=True)
+    
+    return ''.join(ElementTree.fromstring(text, parser=parse).itertext())
+-----------
+# '変更した',
+    # '変わります',
+    # '変更します',
+    # '変更された',
+    # '変わりました。',
+    # '見つかりません',
+    # '変更されました',
+    # '表示できません',

@@ -1,0 +1,13 @@
+id,city_id,approve_url
+2,15,https://www.city.chiyoda.lg.jp/koho/kurashi/zekin/juminze/kojo/tokubetsuze.html
+4,4,http://www.vill.kunohe.iwate.jp/docs/1349.html
+5,29,https://www.city.osaka.lg.jp/fukushima/page/0000526266.html
+7,25,https://www.city.nagoya.jp/kenkofukushi/page/0000150204.html
+8,14,https://www.city.chiba.jp/keizainosei/nosei/nosei/nogyoseisanryokukyokasien.html
+10,26,http://www2.town.asahi.mie.jp/www/contents/1587428500886/index.html
+11,31,https://www.town.ando.nara.jp/0000003252.html
+12,6,https://www.city.odate.lg.jp/city/soshiki/fukushisoumu/p8809
+13,9,NULL
+14,24,http://www.pref.shizuoka.jp/bunka/bk-110/josei.html
+15,5,NULL
+16,31,https://www.city.gojo.lg.jp/kenkou_fukushi/kenkou_iryou_hoken/8676.html

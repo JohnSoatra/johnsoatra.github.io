@@ -6,6 +6,7 @@ import re
 import io
 import contextlib
 import time
+import json
 
 with contextlib.redirect_stdout(None):
     import pygame
@@ -40,6 +41,11 @@ def now():
 
 def find(check, items):
     return next((item for item in items if check(item)), None)
+
+def write_file(save_to, content):
+        f = open(save_to, "w")
+        f.write(content)
+        f.close()
 
 #-------------------
 
