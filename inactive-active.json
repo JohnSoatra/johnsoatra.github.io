@@ -1,0 +1,1853 @@
+[
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "介護保険制度について｜三島市",
+                "介護保険制度について",
+                "介護保険制度とは"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.city.mishima.shizuoka.jp/ipn000156.html",
+        "expired": "Sat, 29 Apr 2023 00:27:20 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和4年度課税の税制改正について｜船橋市公式ホームページ",
+                "令和4年度課税の税制改正について"
+            ],
+            "paragraphs": [
+                "更新日：令和4(2022)年9月15日（木曜日）"
+            ]
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.city.funabashi.lg.jp/kurashi/zei/001/03/p095842.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "宅配ボックス購入支援事業（令和4年度） 四街道市",
+                "宅配ボックス購入支援事業（令和4年度）",
+                "お問い合わせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.city.yotsukaido.chiba.jp/kurashi/kankyo/energy_saving_eco/takuhai-box04.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "千葉県勝浦市 千葉県勝浦市防災士の資格取得に対する補助金制度",
+                "●防災士とは？"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.katsuura.lg.jp/info/533",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大網白里市郷土芸能活動助成金 | 千葉県大網白里市公式ホームページ",
+                "大網白里市郷土芸能活動助成金",
+                "大網白里市郷土芸能活動助成金とは"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.55,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.oamishirasato.lg.jp/0000012414.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "就学援助について | 市川市公式Webサイト",
+                "就学援助について",
+                "就学援助の種類（費目）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.ichikawa.lg.jp/edu03/1111000003.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "京都市：京都市集会所新築等補助金交付制度について",
+                "京都市集会所新築等補助金交付制度について",
+                "お問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.kyoto.lg.jp/bunshi/page/0000115032.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "千代田区ホームページ - 寄附金税額控除",
+                "寄附金税額控除"
+            ],
+            "paragraphs": [
+                "住民税について（個人の方向け）",
+                "ページの先頭へ戻る",
+                "〒102-8688",
+                "東京都千代田区九段南1-2-1",
+                "Copyright © Chiyoda City. All Rights Reserved."
+            ]
+        },
+        "header-max-point": 0.69,
+        "paragraph-max-point": 0.62,
+        "redirected": False,
+        "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/zekin/juminze/kifukin.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "運転免許証の自主返納制度について | 笠置町",
+                "運転免許証の自主返納制度について",
+                "返納後の支援について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.kasagi.lg.jp/contents_detail.php?co=cat&frmId=88&frmCd=4-1-0-0-0",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "育英資金 | 匝瑳市公式ホームページ",
+                "子育て支援",
+                "育英資金",
+                "子育て・教育"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.sosa.lg.jp/page/page000714.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "乳児一般健康診査 | 九十九里町ホームページ",
+                "乳児一般健康診査",
+                "ご意見をお聞かせください"
+            ],
+            "paragraphs": [
+                "[2010年4月1日]"
+            ]
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.town.kujukuri.chiba.jp/0000000127.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "火葬料の一部補助 | 城陽市",
+                "火葬料の一部補助",
+                "この記事を見ている人はこんな記事も見ています"
+            ],
+            "paragraphs": [
+                "SNSへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.51,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.city.joyo.kyoto.jp/0000000212.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "家庭教育支援事業／青森市",
+                "家庭教育支援事業"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.city.aomori.aomori.jp/bunkagakushu/kodomo-kyouiku/kyouikujigyo/kateikyouiku-shien/main.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "国民年金制度の概要 | 山武市公式ホームページ",
+                "山武市ホームページ",
+                "国民年金制度の概要",
+                "防災・防犯・消防について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.sammu.lg.jp/page/page003161.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "老人クラブ補助金 新潟市秋葉区",
+                "老人クラブ補助金",
+                "申請書等様式"
+            ],
+            "paragraphs": [
+                "最終更新日：2023年2月7日"
+            ]
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "https://www.city.niigata.lg.jp:443/akiha/torikumi/gyoseiunei/hojokin/hojyokinkijyun/roujinnkurabu.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "東京圏からの移住支援金について(令和3年4月改正)／河合町",
+                "東京圏からの移住支援金について(令和3年4月改正)",
+                "関連リンク"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.kawai.nara.jp/chosei/shisaku_keikaku/1/2/7/3017.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "死亡一時金／葛城市",
+                "死亡一時金",
+                "お問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.katsuragi.nara.jp/bamenbetsu_mokutekibetu/owakare/5347.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "成年後見制度利用支援 | 綾部市",
+                "成年後見制度利用支援",
+                "お問い合わせ"
+            ],
+            "paragraphs": [
+                "判断能力が十分でない高齢者や障害者の暮らしや財産を守る成年後見制度の利用を支援します。",
+                "身寄りがない方等について市長が制度の申し立てをします。",
+                "綾部市福祉保健部地域包括支援課地域包括支援センター担当",
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0.49,
+        "redirected": False,
+        "url": "https://www.city.ayabe.lg.jp/0000001626.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "後期高齢者医療制度～75歳以上の方の医療保険～ | 安堵町役場",
+                "後期高齢者医療制度～75歳以上の方の医療保険～",
+                "お問い合わせ"
+            ],
+            "paragraphs": [
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.town.ando.nara.jp/0000000009.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "国民健康保険／野迫川村",
+                "国民健康保険",
+                "この記事に関するお問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.51,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.vill.nosegawa.nara.jp/top/lifeevent/decease/357.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度耐震診断・耐震改修・耐震シェルター設置・ブロック塀等撤去工事支援事業の募集 | 斑鳩町",
+                "令和5年度耐震診断・耐震改修・耐震シェルター設置・ブロック塀等撤去工事支援事業の募集",
+                "耐震診断・耐震改修・耐震シェルター設置・ブロック塀等撤去工事支援事業"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.ikaruga.nara.jp/0000000008.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "妊婦一般健康診査 - 袖ケ浦市公式ホームページ",
+                "妊婦一般健康診査",
+                "このページを見ている人は",
+                "こんなページも見ています"
+            ],
+            "paragraphs": [
+                "妊娠中に14回分の健診を一部公費負担で受けられます。",
+                "母子健康手帳別冊につづられている妊婦一般健康診査受診票を、医療機関等で妊婦健診を受ける際に提出してください。妊婦健診は、妊婦の健康状態や胎児の発育状態を診るもので、自覚症状のない異常を発見する機会ともなりますので、必ず定期的に受けるようにしましょう。",
+                "健診回数の目安",
+                "妊娠23週(6か月)まで",
+                "妊娠24週(7か月)から妊娠35週(9か月)まで",
+                "妊娠36週(10か月)まで"
+            ]
+        },
+        "header-max-point": 0.69,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.city.sodegaura.lg.jp/soshiki/kenko/ninpuiipan.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "生活困窮者自立支援について｜熱海市公式ウェブサイト",
+                "生活困窮者自立支援について",
+                "生活困窮者自立支援事業"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.43,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.atami.lg.jp/kenko/fukushi/1004693.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "千葉市：「石綿による健康被害の救済に関する法律」に基づく救済制度",
+                "「石綿による健康被害の救済に関する法律」に基づく救済制度"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.41,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.chiba.jp/hokenfukushi/iryoeisei/seisaku/asbestos180320.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "乳児健康診査を受けましょう - 君津市公式ホームページ",
+                "乳児健康診査を受けましょう",
+                "このページを見ている人は",
+                "こんなページも見ています"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.69,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.kimitsu.lg.jp/site/kosodate/1397.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "医療費助成金交付申請書 | 生駒市公式ホームページ",
+                "医療費助成金交付申請書",
+                "お問い合わせ"
+            ],
+            "paragraphs": [
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます",
+                "健康・医療に関する申請書ダウンロード",
+                "戸籍・住民票・印鑑登録に関する申請書ダウンロード",
+                "税金に関する申請書ダウンロード",
+                "引越し・住まいに関する申請書ダウンロード",
+                "結婚・離婚に関する申請書ダウンロード",
+                "おくやみに関する申請書ダウンロード",
+                "子育て・教育に関する申請書ダウンロード",
+                "高齢・介護に関する申請書ダウンロード",
+                "防災・防犯に関する申請書ダウンロード",
+                "住宅・道路・上下水道に関する申請書ダウンロード",
+                "都市計画・公園・緑化推進に関する申請書ダウンロード",
+                "ごみ・環境に関する申請書ダウンロード",
+                "文化・スポーツに関する申請書ダウンロード",
+                "情報公開・個人情報保護に関する申請書ダウンロード",
+                "選挙に関する申請書ダウンロード",
+                "市民活動に関する申請書ダウンロード",
+                "国際交流・友好都市に関する申請書ダウンロード",
+                "広報に関する申請書ダウンロード",
+                "[公開日：2020年4月24日]",
+                "ページの先頭へ戻る",
+                "Copyright (C) Ikoma City All Rights Reserved."
+            ]
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0.63,
+        "redirected": False,
+        "url": "https://www.city.ikoma.lg.jp/0000000011.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "がん患者等の妊孕性(にんようせい)温存療法に要する治療費用の一部助成／王寺町",
+                "がん患者等の妊孕性(にんようせい)温存療法に要する治療費用の一部助成",
+                "将来、子どもを産み育てることを望む すべてのがん等の患者さんとそのご家族へ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.47,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.oji.nara.jp/kosodate_kyoiku/ninshin_shussan/kodomonozomuhitohe/7604.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "就学援助の申請を受付しています｜横手市公式サイト",
+                "就学援助の申請を受付しています",
+                "くらし・手続き"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.58,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.yokote.lg.jp/1001344/1004931/1005152.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "非自発的失業者への保険料軽減制度について：国民健康保険 - 鋸南町ホームページ",
+                "非自発的失業者への保険料軽減制度について：国民健康保険",
+                "会社都合により離職した方は、国民健康保険料の軽減を受けられる場合があります"
+            ],
+            "paragraphs": [
+                "平成22年4月より、“倒産・解雇などによる離職”（特定受給資格者）や、“雇い止めなどによる離職”（特定理由離職者）をされた方へ、国民健康保険料の軽減措置が制度化されました。",
+                "＜外部リンク＞"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "https://www.town.kyonan.chiba.jp/soshiki/3/2064.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "妊婦健康診査 | 一宮町役場",
+                "妊婦健康診査"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.ichinomiya.chiba.jp/kosodate/kosodate/516.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "交通災害共済制度 | 白子町",
+                "交通災害共済制度",
+                "交通災害共済制度とは"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.42,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.shirako.lg.jp/0000000195.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新潟県分野別文化団体事業費補助金交付要綱 - 新潟県ホームページ",
+                "新潟県分野別文化団体事業費補助金交付要綱",
+                "このページに関するお問い合わせ"
+            ],
+            "paragraphs": [
+                "知事は、文化活動の活発な展開と個性豊かな県民文化の創造と発展のため、文化に親しむ機会の創出、文化活動の成果発表機会の充実を目的に、全県域にわたり広域的な活動を行う文化団体に対し、その事業の経費の一部について、予算の範囲内において補助金を交付するものとし、その交付に関しては、新潟県補助金等交付規則（昭和32年新潟県規則第7号。以下「規則」という。）に定めるもののほか、この要綱の定めるところによる。",
+                "＜外部リンク＞"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.48,
+        "redirected": False,
+        "url": "https://www.pref.niigata.lg.jp/sec/bunka/1237233686782.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナワクチン接種に係る健康被害救済制度／御杖村",
+                "新型コロナワクチン接種に係る健康被害救済制度",
+                "キーワードから検索できます"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.56,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.vill.mitsue.nara.jp/kurashi/annai/hokenfukushika/2/1/2045.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "運転免許証の自主返納者対象 タクシー運賃の割引制度 - 鴨川市公式ホームページ",
+                "運転免許証の自主返納者対象 タクシー運賃の割引制度",
+                "情報をさがす"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.64,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.kamogawa.lg.jp/soshiki/2/183.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "富里市空き家活用制度のご案内 | 富里市",
+                "富里市空き家活用制度のご案内",
+                "お問い合わせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.tomisato.lg.jp/0000009699.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "千葉県市町村交通災害共済 | 印西市ホームページ",
+                "千葉県市町村交通災害共済",
+                "ご意見をお聞かせください"
+            ],
+            "paragraphs": [
+                "[2022年8月1日]"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.42,
+        "redirected": False,
+        "url": "https://www.city.inzai.lg.jp/0000000294.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "妊婦・乳児一般健康診査 - 大多喜町公式ホームページ",
+                "大多喜町公式ホームページ",
+                "妊婦・乳児一般健康診査"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.62,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.otaki.chiba.jp/index.cfm/7,178,34,html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "妊婦一般健康診査受診票の交付 | 南房総市ホームページ",
+                "妊婦一般健康診査受診票の交付",
+                "すこやかな妊娠と出産のために妊婦健診を受けましょう"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.69,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.minamiboso.chiba.jp/0000000749.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "特定の障害福祉サービスの利用者負担が軽減されます - 旭市公式ホームページ",
+                "特定の障害福祉サービスの利用者負担が軽減されます",
+                "新しい高額障害福祉サービス等給付費のお知らせ"
+            ],
+            "paragraphs": [
+                "Copyright © City of Asahi. All Rights Reserved."
+            ]
+        },
+        "header-max-point": 0.69,
+        "paragraph-max-point": 0.62,
+        "redirected": False,
+        "url": "https://www.city.asahi.lg.jp/soshiki/11/2295.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "固定資産税／白井市",
+                "固定資産税",
+                "この記事に関するお問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.51,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.shiroi.chiba.jp/soshiki/kikaku/s01/kaz003/kaz006/kaz011/1421160397261.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "特別定額給付金に関するお知らせ（配偶者からの暴力を理由に避難している方への支援） - 九戸村",
+                "特別定額給付金に関するお知らせ（配偶者からの暴力を理由に避難している方への支援）",
+                "配偶者からの暴力を理由に避難している方への支援"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.vill.kunohe.iwate.jp/docs/1168.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "【5月25日放送】路線バス定期券・回数券の補助制度について／阿賀町",
+                "【5月25日放送】路線バス定期券・回数券の補助制度について",
+                "ページを探す"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.77,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.aga.niigata.jp:443/info/machizukuri_kanko_info/1140.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "香取市危険ブロック塀等の撤去助成金制度のご案内：香取市ウェブサイト",
+                "香取市危険ブロック塀等の撤去助成金制度のご案内",
+                "危険ブロック塀等の撤去助成"
+            ],
+            "paragraphs": [
+                "更新日：2022年1月24日"
+            ]
+        },
+        "header-max-point": 0.47,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "https://www.city.katori.lg.jp/living/sumai/block_support.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "【期間延長】一部損壊住宅修理支援事業について - 飯舘村ホームページ",
+                "【期間延長】一部損壊住宅修理支援事業について",
+                "一部損壊住宅修理支援事業"
+            ],
+            "paragraphs": [
+                "令和4年福島県沖地震（以下「地震」という。）により、住宅が「一部損壊」した世帯に対し、日常生活に必要不可欠な部分に修理した場合の費用の一部を定額で補助します。",
+                "修理の緊急性の高い部分",
+                "壊れた屋根の補修、壊れた基礎の補修、柱・梁の補修、壊れた外装の補修、壊れた床の補修",
+                "壊れたドア、窓等の開口部の補修（外部のみ）",
+                "配管・配線の補修（上下水道の水漏れの補修、壊れた吸排気設備（換気扇等の交換）、電気・ガス・電話等の配管・配線の補修",
+                "壊れた衛生設備（便器・浴槽などの交換）",
+                "＜外部リンク＞"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.vill.iitate.fukushima.jp/soshiki/1/7959.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "難聴児補聴器購入費助成制度 | 御所市",
+                "難聴児補聴器購入費助成制度",
+                "この記事と同じ分類の記事"
+            ],
+            "paragraphs": [
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.city.gose.nara.jp/0000000021.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "国民年金について | 酒々井町ホームページ",
+                "国民年金について",
+                "お問い合わせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.69,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.shisui.chiba.jp/docs/2020110600011/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "国民健康保険料｜銚子市",
+                "国民健康保険料",
+                "保険料の決め方"
+            ],
+            "paragraphs": [
+                "国民健康保険事業の健全な運営を維持していくため、皆様のご理解とご協力をお願いいたします。",
+                "国民健康保険料は医療給付費分、後期高齢者支援金等分、介護納付金分の3要素で算定されています。",
+                "（注釈）令和4年度改定",
+                "国民健康保険の加入者の（1）から（3）の合計（賦課限度額は650,000円）で算出されます。",
+                "（1）所得割額＝（総所得金額－基礎控除額（注釈1））×6.8％",
+                "（2）均等割額＝被保険者の人数×24,000円",
+                "（3）平等割額＝29,000円",
+                "国民健康保険の加入者の（4）、（5）の合計（賦課限度額は200,000円）で算出されます。",
+                "（4）所得割額＝（総所得金額－基礎控除額（注釈1））×2.2％",
+                "（5）均等割額＝被保険者の人数×11,000円",
+                "国民健康保険の加入者のうち、40歳以上65歳未満の人（介護保険第2号被保険者）の（6）、（7）の合計（賦課限度額は170,000円）で算出されます。",
+                "（6）所得割額＝（総所得金額－基礎控除額（注釈1））×2.4％",
+                "（7）均等割額＝被保険者の人数×19,000円",
+                "賦課限度額は1,020,000円",
+                "年間保険料額＝医療給付費分＋後期高齢者支援金等分＋介護納付金分",
+                "所得2,400万円以下は1人最大430,000円",
+                "くわしくは、「令和3年度 市民税・県民税 税制改正の主な改正点」の「3. 基礎控除の見直し」をご覧ください。",
+                "国民健康保険料の計算表については、以下のPDFをご確認ください。",
+                "子育て世帯の経済的負担の軽減を図るため、国民健康保険に加入している未就学児の均等割額を軽減します。",
+                "令和4年度分については、平成28年4月2日以降に生まれた方となります。",
+                "国民健康保険料は、国民健康保険事業を運営するための重要な財源となりますので、納期限内に納付をお願いします。",
+                "国民健康保険料の納期を過ぎると滞納となり、期間や金額により延滞金が発生します。",
+                "さらに督促状・催告書が送られるほか、特別な事情がなく納付しない時は、差押えなどの滞納処分を受けることになります。",
+                "納期限までに納付されていない場合は、納期限に納付した方との公平性を保つため、各納期限の翌日から納付の日までの日数に応じて、延滞金を保険料に加算して納付することになります。",
+                "納付が遅れるほど負担が多くなりますので早めに納付しましょう。",
+                "なお、分納で納めていただいても、納期限までに納付していない場合と同様に、延滞金が発生する場合があります。",
+                "原則として、年7.3％の割合が適用されます。",
+                "ただし、平成12年1月1日以後の延滞金の割合（年7.3％部分）については、年「7.3％」と「特例基準割合（注釈2）」のいずれか低い割合が適用されます。（「延滞金の割合（平成25年12月31日以前）の表」の割合（1））",
+                "年14.6％が適用されます。（「延滞金の割合（平成25年12月31日以前）の表」の割合（2））",
+                "年「7.3％」と「特例基準割合（注釈2）+1％」のいずれか低い割合が適用されます。（「延滞金の割合（平成26年1月1日から令和2年12月31日まで）の表」の割合（1））",
+                "年「14.6％」と「特例基準割合（注釈2）+7.3％」のいずれか低い割合が適用されます。（「延滞金の割合（平成26年1月1日から令和2年12月31日まで）の表」の割合（2））",
+                "年「7.3％」と「延滞金特例基準割合（注釈3）＋1％」のいずれか低い割合が適用されます。（「延滞金の割合（令和3年1月1日以降）の表」の割合（1））",
+                "年「14.6％」と「延滞金特例基準割合（注釈3）＋7.3％」のいずれか低い割合が適用されます。（「延滞金の割合（令和3年1月1日以降）の表」の割合（2））",
+                "保険料の滞納を続けていると、病気やけがをしたときの医療費がいったん全額自己負担になるなど、厳しい措置がとられます。",
+                "どうしても納付が困難な場合は滞納のままにせず、お早めに市民課保険年金室4番窓口までご相談ください。",
+                "災害などの特別な事情で保険料の納付が困難な場合には、申請により分割納付や減免が受けられる場合があります。",
+                "お早めにご相談いただければ、その分、対策も立てやすくなりますので、まずはご相談ください。",
+                "このページの資料をご覧になるにはAdobe Acrobat Reader（無償）が必要です。",
+                "ソフトウェアをお持ちでない方は以下のページよりダウンロードしてください。"
+            ]
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0.59,
+        "redirected": False,
+        "url": "https://www.city.choshi.chiba.jp/kurashi/page050057.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "東日本大震災で保護者が死亡または行方不明となった児童やご家庭への主な支援制度について｜仙台市",
+                "東日本大震災で保護者が死亡または行方不明となった児童やご家庭への主な支援制度について"
+            ],
+            "paragraphs": [
+                "このページの先頭へ戻る"
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.62,
+        "redirected": False,
+        "url": "https://www.city.sendai.jp/kodomo-somu/shise/daishinsai/hisai/shiensedo.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "固定資産税の減額措置／桜井市",
+                "固定資産税の減額措置",
+                "お問い合わせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.sakurai.lg.jp/gyosya/sizei/1394426477321.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "“ふるさと納税”における寄附金控除について | 広陵町",
+                "“ふるさと納税”における寄附金控除について",
+                "“ふるさと納税”における寄附金控除について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.42,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.koryo.nara.jp/contents_detail.php?co=cat&frmId=2177&frmCd=6-2-3-1-0",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "家屋に対する固定資産税の減額措置等：静岡市",
+                "家屋に対する固定資産税の減額措置等",
+                "本ページに関するアンケート"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.57,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.shizuoka.lg.jp/000_001932.html",
+        "expired": "Fri, 28 Apr 2023 10:09:21 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "沼津市結婚新生活支援補助金／沼津市",
+                "沼津市結婚新生活支援補助金"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.numazu.shizuoka.jp/deai/shien/index.htm",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "就職支援セミナー｜流山市",
+                "就職支援セミナー",
+                "令和5年度就職支援セミナー （対面およびオンラインによる実施）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.47,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.nagareyama.chiba.jp/life/1002236/1002237/1002239.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "軽・中等度難聴児支援事業／井手町",
+                "軽・中等度難聴児支援事業"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.38,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.ide.kyoto.jp/lifeevent/fukushi_kaigo/syougaisyafukushi/1434591632178.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "固定資産税 - 長柄町",
+                "固定資産税",
+                "このページに関するお問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.nagara.chiba.jp/soshiki/3/37.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナウイルス感染症に関する国民健康保険傷病手当金について - 平群町ホームページ",
+                "新型コロナウイルス感染症に関する国民健康保険傷病手当金について",
+                "支給を受けるためには、申請が必要です"
+            ],
+            "paragraphs": [
+                "平群町国民健康保険の被保険者が新型コロナウイルス感染症に感染した場合又は発熱等の症状があり感染が疑われた場合に、その療養のため労務に服することができなかった期間（一定の要件を満たした場合に限る）傷病手当金を支給します。",
+                "＜外部リンク＞"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.town.heguri.nara.jp/site/shiensaku/1115.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "宇治市一人暮らし高齢者火災警報器の給付 - 宇治市公式ホームページ",
+                "宇治市一人暮らし高齢者火災警報器の給付",
+                "火災警報器の給付について"
+            ],
+            "paragraphs": [
+                "火災等による被害から高齢者を守り、安全確保を図るために火災警報器を給付します。",
+                "＜外部リンク＞"
+            ]
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0.45,
+        "redirected": False,
+        "url": "https://www.city.uji.kyoto.jp/site/choju/1268.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "名古屋市:新型コロナウイルス感染症に係る融資制度等に必要な証明書（住民票の写し等）の交付手数料の免除について（暮らしの情報）",
+                "新型コロナウイルス感染症に係る融資制度等に必要な証明書（住民票の写し等）の交付手数料の免除について",
+                "このページの作成担当"
+            ],
+            "paragraphs": [
+                "ソーシャルメディアへのリンクは別ウインドウで開きます"
+            ]
+        },
+        "header-max-point": 0.64,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/sportsshimin/page/0000129183.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "未熟児養育医療助成 | 大淀町役場",
+                "未熟児養育医療助成",
+                "お問い合わせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.oyodo.lg.jp/contents_detail.php?co=cat&frmId=265&frmCd=6-21-4-0-0",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和4年度木造住宅簡易耐震相談会｜野田市ホームページ",
+                "令和4年度木造住宅簡易耐震相談会"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.44,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.noda.chiba.jp/kurashi/anzen/bousai/1034535.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "住居確保給付金について｜青森県十和田市",
+                "住居確保給付金について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.towada.lg.jp/fukushi/hogo/juukyokakuho.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "長生村空家バンク制度 | 長生村",
+                "長生村空家バンク制度",
+                "長生村空家バンク制度"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.vill.chosei.chiba.jp/0000001032.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "赤ちゃん相談｜成田市",
+                "赤ちゃん相談",
+                "新型コロナウイルス感染症予防に対する赤ちゃん相談の対応"
+            ],
+            "paragraphs": [
+                "更新日：2021年4月1日"
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "https://www.city.narita.chiba.jp/kosodate/page144400.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナワクチン接種に係る健康被害救済制度について／上牧町ホームページ",
+                "新型コロナワクチン接種に係る健康被害救済制度について",
+                "この記事に関するお問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.51,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.kanmaki.nara.jp/corona/vaccine/856.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "資源回収報償金 | 柏市役所",
+                "資源回収報償金",
+                "担当課"
+            ],
+            "paragraphs": [
+                "広告一覧ページへ",
+                "町会・自治会等への補助制度",
+                "こちらのページも読まれています"
+            ]
+        },
+        "header-max-point": 0.47,
+        "paragraph-max-point": 0.65,
+        "redirected": False,
+        "url": "https://www.city.kashiwa.lg.jp/shiminkatsudo/region/chokai/hojo/shigenkaisyuhousyokin.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "鎌ケ谷市結婚新生活支援事業｜鎌ケ谷市ホームページ",
+                "鎌ケ谷市結婚新生活支援事業",
+                "事業の概要"
+            ],
+            "paragraphs": [
+                "更新日：2023年4月1日"
+            ]
+        },
+        "header-max-point": 0.44,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "http://www.city.kamagaya.chiba.jp/kurashi-tetsuzuki/sumai/kekkonsinseikatu.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "富津市がん検診推進スタンプラリー | 富津市",
+                "富津市がん検診推進スタンプラリー",
+                "ページ内目次"
+            ],
+            "paragraphs": [
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.59,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.city.futtsu.lg.jp/0000006541.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "子宮頸がん予防ワクチンの接種再開について | 下市町",
+                "子宮頸がん予防ワクチンの接種再開について",
+                "お問い合わせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.49,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.shimoichi.lg.jp/0000000128.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和4年度テレワーク対応リフォーム補助制度 昨年度好評いただいた補助制度を、5月10日から受付開始しました！｜静岡県公式ホームページ",
+                "令和4年度テレワーク対応リフォーム補助制度 昨年度好評いただいた補助制度を、5月10日から受付開始しました！",
+                "このページに関する",
+                "お問い合わせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.66,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.pref.shizuoka.jp/kensei/introduction/bukyokucho/1002380/1045969/1012270.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "国民健康保険の一部負担金の減免・猶予｜千葉県木更津市公式ホームページ",
+                "国民健康保険の一部負担金の減免・猶予",
+                "国民健康保険一部負担金の減免等について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.42,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.kisarazu.lg.jp/kurashi/anzen/1005576/1005641.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "居住費・食費の軽減制度（介護保険負担限度額認定）について - 黒石市",
+                "居住費・食費の軽減制度（介護保険負担限度額認定）について",
+                "ナビゲーションスキップメニュー"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.5,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.city.kuroishi.aomori.jp/kenkou/kaigo/kaigo_jyukyokeigen.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "弘前市空き家・空き地利活用事業費補助金 - 弘前市",
+                "令和５年度弘前市空き家・空き地利活用事業費補助金の受付を開始します",
+                "くらしのメニュー"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.58,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.hirosaki.aomori.jp/kurashi/akiya/2015-1008-1749-45.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "出産育児一時金について - 千葉県八街市ホームページ",
+                "出産育児一時金について",
+                "意見をお聞かせください"
+            ],
+            "paragraphs": [
+                "国保加入者が出産（妊娠12週以後の死産・流産も含む）した場合、出産育児一時金420,000円（令和5年4月1日以降に出産した場合は500,000円）を支給します。",
+                "ただし、会社の健康保険喪失後6カ月以内に出産された場合は健康保険から支給される場合もありますのでご確認ください。",
+                "（国保に請求時には、職員が健康保険（本人が加入していた場合）に確認する場合があります）",
+                "※1いただいたご意見は、より分かりやすく役に立つホームページとするために参考にさせていただきますので、ご協力をお願いします。",
+                "※2ブラウザでCookie（クッキー）が使用できる設定になっていない、または、ブラウザがCookie（クッキー）に対応していない場合はご利用頂けません。",
+                "※3このアンケートの具体的なご意見に対して回答はしておりません。",
+                "お問い合わせについては、「この記事に関するお問い合わせ先」欄の担当課へ電話連絡していただくか、メールでお問い合わせください。",
+                "メールでのお問い合わせはこちら"
+            ]
+        },
+        "header-max-point": 0.62,
+        "paragraph-max-point": 0.58,
+        "redirected": False,
+        "url": "https://www.city.yachimata.lg.jp/soshiki/10/7648.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度地域猫不妊去勢手術補助金：我孫子市公式ウェブサイト",
+                "令和5年度地域猫不妊去勢手術補助金",
+                "補助金の交付を受けるには"
+            ],
+            "paragraphs": [
+                "登録日：2023年4月1日",
+                "更新日：2023年4月1日",
+                "市では、飼い主のいない猫がこれ以上増えないよう、地域猫（特定の飼い主がなく、地域に生息し、その地域の住民の方々の同意のもと適切に管理されている猫）の不妊去勢手術を実施する団体に、手術費用の一部を助成し、良好な生活環境の保全と動物愛護思想の普及を図ります。",
+                "我孫子市地域猫不妊去勢手術補助金のご案内（令和5年度分）（PDF：226KB）",
+                "次のすべての要件を満たしていることが必要です。",
+                "(1)我孫子市内で地域猫活動を行っていること",
+                "(2)活動されている方のうち3名以上が、我孫子市に居住していて住所の異なる成人であること",
+                "(3)活動場所の土地所有者・自治会等から、活動について同意を得ていること",
+                "「我孫子市地域猫活動団体登録申請書（様式第1号）」に次の書類を添えて、市役所手賀沼課へ提出してください。内容についてお話を伺いますので、事前にご相談くださるようお願いします。",
+                "(1)活動される方の名簿",
+                "住所、氏名（ふりがな）の記載があるもの。様式は問いません。",
+                "(2)活動場所の平面図",
+                "餌場・トイレの位置を図示したもの。手書きでも可。",
+                "(3)活動場所の土地所有者の同意書",
+                "事前に手賀沼課へご相談ください。",
+                "(4)活動場所が属する自治会の同意書",
+                "様式は問いません。",
+                "(5)活動される方のうち、我孫子市に居住していて住所の異なる方3名以上の住民票",
+                "「個人情報確認同意書（様式第2号）」をご提出いただくことで省略できます。",
+                "審査の結果、地域猫活動団体として認めたときは、団体に対して登録決定の通知をします。",
+                "登録期間は、登録決定の通知をした日から、翌年度の3月31日までです。令和4年度に登録した団体は令和6年3月31日まで、令和5年度に登録した団体は令和7年3月31日まで、となります。",
+                "補助金申請期限（令和6年3月19日（火曜日））に間に合うように動物病院で地域猫に不妊去勢手術を実施してください。その際、手術を実施した猫の耳の先端をV字にカットし、不妊去勢手術を済ませたことが分かるようにしてください。",
+                "手術前・手術後の猫の写真が必要になりますので、撮影を忘れないようご注意ください。",
+                "令和6年3月19日（火曜日）までに、「我孫子市地域猫不妊去勢手術補助金交付申請書（様式第10号）」に次の書類を添えて提出してください。",
+                "(1)手術に要した費用の領収書",
+                "(2)手術を実施した地域猫の不妊去勢手術前及び手術後の写真",
+                "補助金額は、地域猫1匹につき",
+                "※手術に要した費用が5,000円を下回る場合は、実際にかかった費用となります。",
+                "審査の結果、適当と認めたときは、交付決定通知書により通知します。通知を受けたら、速やかに請求書を提出してください。請求を受け、指定された金融機関の口座に振り込まれます。",
+                "地域猫活動団体として登録されたら、毎年度活動状況の報告が必要になります。",
+                "令和5年度は、令和6年3月1日（金曜日）から3月29日（金曜日）までに、「我孫子市地域猫活動実施報告書（様式第9号）」を提出してください。",
+                "一度登録された団体は、登録の更新をすることができます。",
+                "令和4年度に登録した団体は、令和6年3月1日（金曜日）から3月29日（金曜日）までの間に、「我孫子市地域猫活動団体登録更新申請書（様式第4号）」に次の書類を添えて提出してください。審査の結果、適当と認めた場合は、登録更新決定の通知をします。",
+                "(1)活動される方の名簿",
+                "(2)活動場所が属する自治会等の同意書",
+                "登録内容に次の変更があった場合は、「我孫子市地域猫活動団体登録事項変更届(様式第6号)」に書類を添えて提出してください。",
+                "代表者又は代表者の住所が変わった場合は、変更後の住民票を提出してください（「個人情報確認同意書(様式第2号)」の提出で省略できます。）",
+                "変更後の活動場所の平面図、活動場所の土地所有者の同意書、活動場所が属する自治会等（ない場合は周辺住民）の同意書を提出してください。",
+                "変更後の名簿を提出してください。住民票又は「個人情報確認同意書（様式第2号）」の提出が必要になる場合がありますので、市役所手賀沼課へご相談ください。",
+                "市役所手賀沼課へご相談ください。",
+                "地域猫活動をやめたときは、「我孫子市地域猫活動団体登録廃止届（様式第8号）」を提出してください。",
+                "環境経済部 手賀沼課"
+            ]
+        },
+        "header-max-point": 0.5,
+        "paragraph-max-point": 0.69,
+        "redirected": False,
+        "url": "http://www.city.abiko.chiba.jp/kurashi/pet/pet/tiikinekohojyokinn.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "後期高齢者医療制度 - 朝日町",
+                "後期高齢者医療制度",
+                "おしらせ"
+            ],
+            "paragraphs": [
+                "税金・保険（国保・後期）・年金",
+                "後期高齢者医療",
+                "後期高齢者医療制度",
+                "更新日：2023年1月20日",
+                "国の医療制度改革により、平成20年4月1日から老人保健（医療等）制度に代わり独立した高齢者医療制度として新たに『後期高齢者医療制度』が施行されました。",
+                "詳しくは三重県後期高齢者医療広域連合ホームページをご覧ください。",
+                "電話番号：059-377-5659",
+                "ファクス：059-377-2790"
+            ]
+        },
+        "header-max-point": 0.64,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www2.town.asahi.mie.jp/www/contents/1001000000531/index.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "後期高齢者医療制度について | 暮らし | 東吉野村",
+                "後期高齢者医療制度について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.53,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.vill.higashiyoshino.nara.jp/life/%E5%BE%8C%E6%9C%9F%E9%AB%98%E9%BD%A2%E8%80%85%E5%8C%BB%E7%99%82%E5%88%B6%E5%BA%A6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナウイルス感染症の影響に伴い中止となったイベントのチケット払い戻しを受けない場合の寄付金控除について | 舞鶴市 公式ホームページ",
+                "新型コロナウイルス感染症の影響に伴い中止となったイベントのチケット払い戻しを受けない場合の寄付金控除について",
+                "新型コロナウイルス感染症の影響に伴い中止となったイベントのチケット払い戻しを受けない場合の寄附金控除について"
+            ],
+            "paragraphs": [
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.62,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.city.maizuru.kyoto.jp/0000007238.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "未婚の児童扶養手当受給者に対する臨時特別給付金について まつどDE子育て｜松戸市",
+                "未婚の児童扶養手当受給者に対する臨時特別給付金について",
+                "支給対象者"
+            ],
+            "paragraphs": [
+                "更新日：2021年4月16日"
+            ]
+        },
+        "header-max-point": 0.43,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "https://www.city.matsudo.chiba.jp/kosodate/matsudodekosodate/kosodatenavi/teate_jyosei/mikonnkyuuhu.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "国民年金／習志野市ホームページ",
+                "国民年金",
+                "緊急情報"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.6,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.narashino.lg.jp/kurashi/kokuminnenkin/nationalpension.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "五條市創業支援利子補給補助金の交付について／五條市",
+                "五條市創業支援利子補給補助金の交付について",
+                "この記事に関するお問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.51,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.gojo.lg.jp/jigyousha/jigyou_hojyokin/7431.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "福祉タクシー券を交付しています／阿賀野市",
+                "福祉タクシー券を交付しています",
+                "くらし・手続き"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.56,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.agano.niigata.jp:443/kenko_iryo_fukushi/shogaishafukushi/4825.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和4年度個人住民税における主な変更点について／千葉県佐倉市公式ウェブサイト",
+                "令和4年度個人住民税における主な変更点について",
+                "この記事に関するお問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.52,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.sakura.lg.jp/soshiki/shiminzeika/242/12289.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナウイルス感染症の影響により国民年金保険料の納付が困難な方へ／八戸市",
+                "新型コロナウイルス感染症の影響により国民年金保険料の納付が困難な方へ",
+                "暮らし・手続き"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.hachinohe.aomori.jp/corona/2/14513.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "長南町公式ホームページ",
+                "高校生等医療費助成"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.chonan.chiba.jp/kenkoufukusi/iryouhijosei/8668/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "融資制度（個人） - 三沢市ウェブサイト-Misawa City-",
+                "三沢市ウェブサイト-Misawa City-",
+                "雇用・起業・事業者の方へ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.55,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.misawa.lg.jp/index.cfm/10,0,42,416,html",
+        "expired": "Thu, 01 Jan 1970 00:00:00 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "犯罪被害者支援｜伊勢市公式ホームページ",
+                "犯罪被害者支援",
+                "より良いホームページにするために、ページのご感想をお聞かせください。"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.59,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.ise.mie.jp/bousai_kyukyu/anzen/bouhan/1001776.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "自主防災組織育成補助金について - 福知山市オフィシャルホームページ",
+                "自主防災組織育成補助金について",
+                "このページに関するお問い合わせ先"
+            ],
+            "paragraphs": [
+                "福知山市では、年1回、申請のあった自主防災組織に対し、防災資機材の整備や研修等の活動の費用",
+                "の一部を助成しています。",
+                "補助対象経費の内容",
+                "情報収集・伝達用",
+                "地域放送設備、携帯用無線機（トランシーバー）、戸別受信機、携帯用拡声器、携帯用ラジオ、腕章等の整備費",
+                "可搬式動力ポンプ、可搬式散水装置、簡易防火水槽、消火栓用ホース、スタンドパイプ、管鎗、ホース格納箱、消火器、防火衣、鳶口、ヘルメット、水バケツ等の整備費",
+                "救命ボート、救命胴衣、防水シート、シャベル、ツルハシ、スコップ、ロープ、かけや、くい、土（水）のう袋、砂、ゴム手袋等の整備費",
+                "バール、はしご、のこぎり、スコップ、ジャッキ、ハンマー、ロープ、チェーンソー、エンジンカッター、チェーンブロック、油圧式救助器具、可搬式ウィンチ、革手袋、防煙・防塵マスク、ゴーグル等の整備費",
+                "担架、救急セット、AED、テント、毛布、シート、簡易ベッド、感染防止用手袋・眼鏡等の整備費",
+                "避難誘導灯（LED）、リヤカー、車いす用避難器具、携帯用投光器、標識板、標旗、強力ライト等の整備費",
+                "避難所環境改善用",
+                "炊飯装置、鍋、こんろ、ガスボンベ、給水タンク、ろ水機、備蓄食料、備蓄飲料等の整備費",
+                "資機材格納庫、水位センサー、ドローン、ビニールシート等の整備費",
+                "自主防災活動における保険料",
+                "マスク、消毒液、ウェットティッシュ、ペーパータオル、生活必需品等の購入経費",
+                "地域版防災マップの更新・印刷、要支援者名簿の作成・印刷、啓発チラシ、啓発冊子等の作成に係る経費",
+                "防災訓練に係る原材料費、会場使用料",
+                "防災に係る意識及び知識の向上を目的とする研修の実施に要する経費",
+                "その他特に必要と認めるもの"
+            ]
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0.63,
+        "redirected": False,
+        "url": "https://www.city.fukuchiyama.lg.jp/site/bousai/1831.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナウイルス感染症に係る国民年金保険料の免除について - 三郷町公式ホームページ",
+                "新型コロナウイルス感染症に係る国民年金保険料の免除について",
+                "このページに関するお問い合わせ先"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.sango.nara.jp/site/covid-19/2097.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "市民団体等向け助成制度のお知らせ - 五所川原市",
+                "市民団体等向け助成制度のお知らせ",
+                "市の情報"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.6,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.goshogawara.lg.jp:443/jouhou/koho/kyodo/2017-0314-1509-100.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナウイルス感染症に対する国民健康保険料の減免 - 亀岡市公式ホームページ",
+                "新型コロナウイルス感染症に対する国民健康保険料の減免",
+                "皆さまのご意見をお聞かせください"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.kameoka.kyoto.jp/site/covid-19/3090.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "浄化槽設置費用を一部補助します | 大館市役所",
+                "浄化槽設置費用を一部補助します",
+                "このページの現在位置"
+            ],
+            "paragraphs": [
+                "大館市では、生活排水による公共用水域の水質汚濁を防止し生活環境の保全を図るため、浄化槽を設置するかたに対し、その浄化槽の大きさに応じて設置費用の一部を補助します。",
+                "予算に限りがありますので、工事の計画がありましたらお早めにご相談ください。"
+            ]
+        },
+        "header-max-point": 0.76,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.odate.lg.jp/city/handbook/handbook10/page47/p432",
+        "expired": "Fri, 28 Apr 2023 10:10:10 GMT"
+    }
+]

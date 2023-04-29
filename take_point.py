@@ -1,5 +1,5 @@
 #!python3
-from zchecker.checker import active_url
+from zchecker.eyes import view_page
 from threading import Thread
 import pandas
 
@@ -25,7 +25,7 @@ def worker(start, end):
         url = values[i][2]
         
         if type(url) == str and 'http' in url:
-            obj = active_url(url)
+            obj = view_page(url)
             print(f'\n +++ result: {obj}-- {url} +++ \n')
             if not obj['active'] and obj['checked']:
                 point = obj['point']

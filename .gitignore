@@ -3,5 +3,6 @@
 /build
 /dist
 /myproject.egg-info
+__pycache__
 # /files
 # /test

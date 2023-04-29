@@ -1,12 +1,3 @@
-#!python3
-from depends_not_found import depends_not_found as dps1
-from depends_no_data import depends_no_data as dps2
-import json
-
-save1 = 'save/depends_404.json'
-save2 = 'save/depends_no_data.json'
-l1 = []
-l2 = []
 depends = [
     "403 Forbidden",
     "404 ERROR",
@@ -87,8 +78,6 @@ depends = [
     "ご指定のページは見つかりませんでした｜404",
     "ご指定のページまたはファイルが見つかりませんでした",
     "ご指定のページまたはファイルが見つかりませんでした。",
-    "お探しのページが見つかりません-",
-    "時的にご利用いただけません",
     "ぺージが見つかりません",
     "ぺージが見つかりませんでした",
     "アクセスしたページはURL(アドレス)が変更となりました",
@@ -117,7 +106,6 @@ depends = [
     "ページが見つかりませんでした",
     "ページが見つかりませんでした。",
     "ページが見つかりませんでした（404エラー）",
-    "ページが見つかりませんでした",
     "ページを表示することができません",
     "ページを表示することができません。",
     "ページを表示できません",
@@ -131,9 +119,6 @@ depends = [
     "変更した",
     "変更します",
     "大変申し訳ございませんが、ご指定のコンテンツは見つかりませんでした。",
-    "情報がありません",
-    "情報はありません",
-    "情報はないです",
     "指定されたページ、またはファイルは見つかりませんでした。",
     "指定されたページが見つかりませんでした。",
     "指定されたページは存在しないか、公開を終了しています。(404エラー)",
@@ -144,49 +129,14 @@ depends = [
     "指定されたページまたはファイルは存在しません",
     "指定されたページ・ファイルは見つかりませんでした。",
     "指定のページは見つかりませんでした",
-    "掲載されている情報はありません",
-    "ホームページはリニューアルしました",
     "検索したページは見つかりませんでした",
-    "現在、掲載されている情報はありません",
     "現在接続されているページは、ページ移行されました。",
     "表示できません",
     "見つかりません",
     "見つかりません。",
     "見つかりませんでした。",
     "該当のページを表示できません。",
+    "お探しのページが見つかりません-",
+    "時的にご利用いただけません",
+    "ホームページはリニューアルしました"
 ]
-
-for i in range(0, len(depends)):
-    each = depends[i]
-    
-    if each in dps1:
-        if not each in l1:
-            l1.append(each)
-        
-    elif each in dps2:
-        if not each in l2:
-            l2.append(each)
-    
-    else:
-        print('--- not found: ', each)
-    
-    if i == len(depends) - 1:
-        l1.sort()
-        l2.sort()
-        
-        
-        f = open(save1, 'w')
-        f.write(json.dumps(
-                l1,
-                ensure_ascii=False,
-                indent=4
-            ))
-        f.close()
-        f = open(save2, 'w')
-        f.write(json.dumps(
-                l2,
-                ensure_ascii=False,
-                indent=4
-            ))
-        f.close()
-        print('done')

@@ -1,48 +1,87 @@
 #!python3
-# from util import checker
-# from translate import Translator
-# from zchecker import checker
+from threading import Thread
+from zchecker import eyes
+import pandas
+import json
 
+read_from = 'test.csv'
+write_to = 'inactive-active.json'
 
-# a = checker.active_url('http://ww1.proteys.info/')
-depends = [
-    "情報はありません",
-    "掲載されている情報はありません",
-    "現在、掲載されている情報はありません",
-    "情報がありません",
-    "情報はないです",
-    "ページが見つかりませんでした",
-    "ページが見つかりません",
-    "お探しのページは見つかりません。 404 Not Found",
-    "お探しのページが見つかりません（サイト内検索をご利用ください）",
-    "お探しのページは見つかりませんでした。",
-    "指定されたページ、またはファイルは見つかりませんでした。",
-    "お探しのページを見つけることができませんでした。",
-    "ご指定のページは見つかりませんでした",
-    "お探しのページは見つかりませんでした",
-    "指定されたページは存在しないか、公開を終了しています（404ERROR）",
-    "お探しのページは見つかりません。",
-    "お探しのページは見つかりません",
-    "お探しのページが見つかりません",
-    "お探しのページを見つけることができませんでした",
-    "大変申し訳ございませんが、ご指定のコンテンツは見つかりませんでした。",
-    "指定されたページ・ファイルは見つかりませんでした。",
-    "ページが見つかりません。",
-    "ページを表示することができません",
-    "ページが見つかりません Not Found",
-    "404：お探しのページは見つかりません。",
-    "ご指定のページまたはファイルが見つかりませんでした。",
-    "ご指定のページは見つかりませんでした｜404",
-    "指定されたページは存在しません。",
-]
+values = pandas.read_csv(read_from).values
+flow = 50
+token = int(len(values) / flow)
+threads = []
+founds = []
 
-less = len(depends[0])
-word = ''
+def save_file():
+    f = open(write_to, "w")
+    f.write(
+        str(founds)
+        # json.dumps(
+        #     founds,
+        #     ensure_ascii=False,
+        #     indent=4
+        # )
+    )
+    f.close()
+    
+    print('\n--- done ---')
+    print('length = ', len(founds))
+    print('-------------\n')
 
-for depend in depends:
-    if less > len(depend):
-        less = len(depend)
-        word = depend
+def worker(start, end):
+    for i in range(start, end):
+        url = values[i][2]
         
-print(less)
-print(word)
+        if type(url) == str and 'http' in url:
+            try:
+                obj = eyes.view_page(url)
+                if obj['active']:
+                    print(f'\n+++ active +++ {url}\n')
+                    founds.append(obj)
+                    
+                else:
+                    print(f'--- inactive --- {url}')
+                    # return
+                
+            except:
+                pass
+        
+def main():
+    for i in range(0, flow):
+        start = i * token
+        
+        if i == flow - 1:
+            end = len(values)
+            threads.append(
+                Thread(
+                    target=worker,
+                    kwargs={
+                        'start': start,
+                        'end': end
+                    }
+                )
+            )
+            
+            for thread in threads:
+                thread.start()
+            
+            for thread in threads:
+                thread.join()
+                
+            save_file()
+
+        else:
+            end = start + token
+            threads.append(
+                Thread(
+                    target=worker,
+                    kwargs={
+                        'start': start,
+                        'end': end
+                    }
+                )
+            )
+        
+if __name__ == '__main__':
+    main()

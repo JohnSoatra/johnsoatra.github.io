@@ -1,0 +1,979 @@
+[
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度胃がん検診（内視鏡検査)について｜福岡県筑前町",
+                "令和5年度胃がん検診（内視鏡検査)について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.47,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.chikuzen.fukuoka.jp/S006/020/010/030/090/20200727151416.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "傷病手当金の申請について（国民健康保険・後期高齢者医療制度に加入している方） - 美咲町ホームページ",
+                "傷病手当金の申請について（国民健康保険・後期高齢者医療制度に加入している方）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.misaki.okayama.jp/site/covid-19/11359.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "ふくしまぐらし。×テレワーク支援補助金の募集について - 福島県ホームページ",
+                "ふくしまぐらし。×テレワーク支援補助金の募集について"
+            ],
+            "paragraphs": [
+                "※※注意事項※※",
+                "次のいずれかに該当する者",
+                "下記表のとおり",
+                "（１）本県に滞在している間の宿泊費（飲食代は除く）",
+                "・本県への移住、本県との二地域居住を希望する者であること。",
+                "本県への移住、本県との二地域居住又は本県との継続的な関係づくりを希望する者であること。",
+                "令和６年２月２０日までに完了する事業が対象",
+                "指定の申請様式に必要事項を記入し、",
+                "添付書類（交付要綱別表第２に記載）",
+                "とあわせてふくしまぐらし推進課までメール（郵送も可）により提出してください。",
+                "なお、（原則として）",
+                "本県への出発日の１０日前までに申請書類を県に提出し、出発日より前に県から交付決定通知書を受け取る必要があります",
+                "ので、ご留意ください。",
+                "(1)交付申請書（第１号様式）",
+                "(2)テレワーク実施計画書（別紙様式１－１，１－２、１－３）",
+                "※申請者によって様式が異なりますので、該当するものを使用してください。",
+                "(3)滞在期間及びテレワーク実施期間計画書（別紙様式１－４）",
+                "(4)費用内訳書（別紙様式１－５）",
+                "(5)法人等の概要が分かる資料（会社パンフレットやホームページの写し等）",
+                "(6)開業届出済証明書の写し又は最新の確定申告書の写し",
+                "※個人事業主等の場合のみ",
+                "(7)申請者又は勤務者の居住地を証する書類（運転免許証、住民票の写し等）",
+                "(8)振込口座預金通帳の写し（金融機関、支店、口座種別、口座名義人、口座番号が確認できるもの）",
+                "本県でのテレワーク体験の実施後には、下記により実績報告をする必要があります。",
+                "※指定の期日までにご提出がない場合は補助金をお支払できない場合がありますので、あらかじめご了承ください。",
+                "指定の実績報告様式に必要事項を記入し、",
+                "添付書類（交付要綱別表第４に記載）",
+                "とあわせてふくしまぐらし推進課までメールまたは郵送により提出してください。",
+                "なお、（原則として）",
+                "本県からの帰着日の３０日後または３月５日のいずれか早い日までに実績報告書類を県に提出してください",
+                "(1)実績報告書（第３号様式）",
+                "(2)事業実績報告書（別紙様式３－１）",
+                "(3)滞在期間及びテレワーク実施期間報告（別紙様式３－２）",
+                "(4)交付請求書（第４号様式）",
+                "(5)支払いを確認できる書類（領収書等）の写し",
+                "(6)SNS等での発信が確認できるもの（例：発信したSNS画面の映し、アカウント情報等）",
+                "本補助金の活用に当たっては、先に掲載したよくある質問やチェックリストのほか、下記の要綱・要領についても必ずお読みの上、申請してください。",
+                "〒960-8670"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "http://www.pref.fukushima.lg.jp/sec/11025b/teleworkijuhojo.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "町民の方へ｜妊娠・出産｜経済的支援｜小児慢性特定疾患医療費の助成(県)"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.town.nishikawa.yamagata.jp/chomin/01/chomin01030404.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "長期優良住宅認定制度 | 建築課 | 今治市",
+                "長期優良住宅認定制度"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.44,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.imabari.ehime.jp/kenchiku/yosiki/choki/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "鶴ヶ島市障害者団体等自発的活動費補助金 | 鶴ヶ島市公式ホームページ",
+                "鶴ヶ島市役所ホームページ",
+                "鶴ヶ島市障害者団体等自発的活動費補助金"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.62,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.tsurugashima.lg.jp/page/page003674.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度（令和4年度分）国民健康保険税の減免申請（新型コロナウイルス感染症） - 飯田市ホームページ",
+                "令和5年度（令和4年度分）国民健康保険税の減免申請（新型コロナウイルス感染症）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.iida.lg.jp/site/covid19/03kokuho-zein-corona-genmen.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "名古屋市:守山保健センター 令和5年度3歳児健康診査日程のご案内（守山区）",
+                "守山保健センター 令和5年度3歳児健康診査日程のご案内"
+            ],
+            "paragraphs": [
+                "ソーシャルメディアへのリンクは別ウインドウで開きます"
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/moriyama/page/0000114638.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "物価高騰支援 第3弾「江北町元気クーポン券」のお知らせ / 佐賀県江北町",
+                "物価高騰支援 第3弾「江北町元気クーポン券」のお知らせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.57,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.kouhoku.saga.jp/kiji0032294/index.html",
+        "expired": "Fri, 28 Apr 2023 08:38:39 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "ブロック塀等の撤去補助制度について - 里庄町公式ホームページ",
+                "ブロック塀等の撤去補助制度について"
+            ],
+            "paragraphs": [
+                "この制度は、地震時におけるブロック塀等の倒壊による被害の発生や、通行の妨げになることを防止し、災害に強いまちづくりを推進するため、（民間が所有する）既存ブロック塀等の撤去工事にかかる費用の一部を補助する制度です。",
+                "令和５年５月１日～令和５",
+                "※申し込みは受付順とし、件数を満たした時点で受付を終了します。",
+                "※申請前（交付決定前）にブロック塀を撤去した場合は、補助の対象となりません。",
+                "※補助を受けたい方は、ブロック塀等を撤去する前に必ず農林建設課へ",
+                "【申し込みできる方】",
+                "構造別に以下の項目を点検し、点検結果に１つでも不適合があれば補助対象となるブロック塀等の（５）に該当となります。",
+                "組積造（石積、レンガ塀等）",
+                "塀の長さ４ｍ以内ごとに、塀の高さの１／５以上突出した控え壁がある。",
+                "危険なブロック塀等を撤去する工事費の内、以下(1)、(2)のいずれか少ない金額の2／3の額（千円未満は切り捨て）で、上限額を１５万円とします。",
+                "(1)ブロック塀等の撤去に要する費用（工事見積額）",
+                "(2)ブロック塀等の長さに9,000円／ｍを掛けた金額",
+                "危険なブロック塀等を撤去する工事が補助対象です。",
+                "１ 里庄町ブロック塀等撤去事業費補助金交付申請書［様式］",
+                "＜外部リンク＞",
+                "メールでのお問い合わせはこちら"
+            ]
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0.53,
+        "redirected": False,
+        "url": "http://www.town.satosho.okayama.jp/soshiki/5/5315.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "このページは現在、掲載を終了しています | 津山市公式サイト",
+                "津山市"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.tsuyama.lg.jp/index2.php?id=3326",
+        "expired": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度塩竈市こどもほっとスペースづくり支援事業助成金について - 塩竈市ホームページ",
+                "令和5年度塩竈市こどもほっとスペースづくり支援事業助成金について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.shiogama.miyagi.jp/soshiki/11/2342.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "民間建築物のアスベスト対策に関する補助制度等のご案内 - 志木市ホームページ",
+                "民間建築物のアスベスト対策に関する補助制度等のご案内"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.shiki.lg.jp/soshiki/30/1799.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "【新型コロナウイルス感染症】長野県：新型コロナ中小企業者等特別応援金 第2弾 - 長野県須坂市",
+                "【新型コロナウイルス感染症】長野県：新型コロナ中小企業者等特別応援金 第2弾"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.41,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.suzaka.nagano.jp/contents/item.php?id=6111e7105404e",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "子どもの予防接種 - 石巻市",
+                "子どもの予防接種"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.42,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.ishinomaki.lg.jp/cont/10351000/1436/20140415103406.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "鶴岡市中学生胃がん予防事業について 鶴岡市",
+                "鶴岡市",
+                "鶴岡市中学生胃がん予防事業について"
+            ],
+            "paragraphs": [
+                "更新日：2020年2月17日"
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "https://www.city.tsuruoka.lg.jp:443/kenko/hokenkenko/ganyobo/kenko01201704041.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "みやき町 合併浄化槽設置補助金について",
+                "合併浄化槽設置補助金について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.41,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.miyaki.lg.jp/kurashi/kankyo/_1221/_1240/_2168.html",
+        "expired": "Fri, 28 Apr 2023 08:38:41 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "名古屋市:守山保健センター 令和5年度3歳児健康診査日程のご案内（守山区）",
+                "守山保健センター 令和5年度3歳児健康診査日程のご案内"
+            ],
+            "paragraphs": [
+                "ソーシャルメディアへのリンクは別ウインドウで開きます"
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/moriyama/page/0000114638.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "横瀬町物価高騰対策子ども生活応援給付事業の実施について（受付終了しました） | 【公式】横瀬町ホームページ（埼玉県秩父郡）",
+                "日本一チャレンジする町 横瀬町",
+                "日本一チャレンジする町 横瀬町",
+                "横瀬町物価高騰対策子ども生活応援給付事業の実施について（受付終了しました）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.53,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.yokoze.saitama.jp/kosodate-kyoiku/kodomo-teate/54658",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和５年度 健康診査・がん検診日程のお知らせ - 松野町公式ホームページ",
+                "令和５年度 健康診査・がん検診日程のお知らせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.matsuno.ehime.jp/soshiki/11/4603.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "国民年金 - 諏訪市公式ホームページ",
+                "国民年金"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.suwa.lg.jp/life/1/3/19/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "定住支援制度 - 吉備中央町ホームページ",
+                "定住支援制度"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.kibichuo.lg.jp/site/teijyu/1404.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "自立支援医療 - 三重県菰野町公式サイト",
+                "自立支援医療"
+            ],
+            "paragraphs": [
+                "Copyright © Komono Town. All Rights Reserved."
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.69,
+        "redirected": False,
+        "url": "https://www2.town.komono.mie.jp/www/contents/1001000000313/index.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "観光振興チャレンジサポート補助金のご案内／本庄市",
+                "観光振興チャレンジサポート補助金のご案内"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.honjo.lg.jp/bunka_supotsu_kanko/14496.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "結核予防事業費補助事業について｜いわき市役所",
+                "結核予防事業費補助事業について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.41,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.iwaki.lg.jp/www/contents/1001000000446/index.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "ペレットストーブ設置補助 - 飯綱町",
+                "ペレットストーブ設置補助"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.iizuna.nagano.jp/docs/307.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "安城市／安城市地域組織(母親クラブ等)活動補助金の申請について",
+                "安城市地域組織(母親クラブ等)活動補助金の申請について"
+            ],
+            "paragraphs": [
+                "ページの先頭へ戻る"
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.6,
+        "redirected": False,
+        "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/teateshien/chiikihahahojo.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度 歯科健康相談・むし歯予防フッ素塗布 - 会津坂下町",
+                "令和5年度 歯科健康相談・むし歯予防フッ素塗布"
+            ],
+            "paragraphs": [
+                "対象となる方にはハガキでお知らせします。",
+                "希望する方は、案内を確認し、ご予約ください。",
+                "午後1時15分～予約制",
+                "令和4年4・5月 生まれ",
+                "令和4年12月",
+                "令和5年1月 生まれ",
+                "令和3年4・5月 生まれ",
+                "令和3年12月",
+                "令和4年1月 生まれ",
+                "令和2年4・5月 生まれ",
+                "令和2年12月",
+                "令和3年1月 生まれ",
+                "平成31年4月",
+                "令和元年5月 生まれ",
+                "令和元年12月",
+                "令和2年1月 生まれ",
+                "平成30年12月",
+                "平成31年1月 生まれ",
+                "平成31年4月",
+                "令和元年5月 生まれ",
+                "メールでのお問い合わせはこちら",
+                "会津坂下町役場",
+                "役場への行き方",
+                "） ※開庁時間：月曜日から金曜日の午前8時30分～午後5時15分(年末年始を除く)",
+                "〒969-6592 福島県河沼郡会津坂下町字市中三番甲3662番地 0242-84-1503(代表)",
+                "組織別電話番号一覧",
+                "Copyright © 2022 Aizubange Town All rights reserved."
+            ]
+        },
+        "header-max-point": 0.41,
+        "paragraph-max-point": 0.62,
+        "redirected": False,
+        "url": "https://www.town.aizubange.fukushima.jp/soshiki/27/10148.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "就学援助費支給制度 | 本巣市",
+                "就学援助費支給制度"
+            ],
+            "paragraphs": [
+                "[2023年4月1日]",
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.43,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.city.motosu.lg.jp/0000000977.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "妊婦一般健康診査の費用を助成します | 岩手県雫石町役場",
+                "妊婦一般健康診査の費用を助成します"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.57,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.shizukuishi.iwate.jp/docs/2019040400020/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "復興コミュニティ事業補助金を交付します - 浪江町ホームページ",
+                "復興コミュニティ事業補助金を交付します"
+            ],
+            "paragraphs": [
+                "町民相互のコミュニティの維持・形成及び、震災からの復興を目的としたまちづくりを推進する事業を実施する団体に対し、補助金申請の受付を開始します。事業等を計画している方は、ぜひこの機会にお申し込みください。",
+                "＜外部リンク＞"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.54,
+        "redirected": False,
+        "url": "https://www.town.namie.fukushima.jp/soshiki/20/30491.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "清須市自転車用ヘルメット着用促進事業費補助金 清須市ホームページ",
+                "清須市自転車用ヘルメット着用促進事業費補助金"
+            ],
+            "paragraphs": [
+                "更新日：2023年4月1日"
+            ]
+        },
+        "header-max-point": 0.41,
+        "paragraph-max-point": 0.44,
+        "redirected": False,
+        "url": "http://www.city.kiyosu.aichi.jp/bosai_anshin/kotsu_anzen/kiyosushizitensya.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "創業支援セミナーについて／御坊市ホームページ",
+                "創業支援セミナーについて"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.47,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.city.gobo.wakayama.jp/sosiki/sangyokensetu/syoko/tanto/sanngyousinnkou/sougyou/1527656982710.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "安芸市 : 防災士育成事業補助金について",
+                "安芸市",
+                "防災士育成事業補助金について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.aki.kochi.jp/life/dtl.php?hdnKey=4048",
+        "expired": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "有田川町起業支援補助金／有田川町",
+                "有田川町起業支援補助金"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.aridagawa.lg.jp/top/kakuka/kanaya/9/3/1/476.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "家具転倒防止器具取り付け補助金事業 | 印南町",
+                "家具転倒防止器具取り付け補助金事業"
+            ],
+            "paragraphs": [
+                "ソーシャルサイトへのリンクは別ウィンドウで開きます"
+            ]
+        },
+        "header-max-point": 0.42,
+        "paragraph-max-point": 0.47,
+        "redirected": False,
+        "url": "https://www.town.wakayama-inami.lg.jp/0000001179.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "本山町起業・創業等支援事業について／本山町",
+                "本山町起業・創業等支援事業について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.4,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.motoyama.kochi.jp/soshikikarasagasu/machizukurisuishinka/1/1042.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "美濃市",
+                "美濃市役所"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.mino.gifu.jp/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大川村の移住支援制度について｜大川村役場",
+                "大川村の移住支援制度について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.43,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.vill.okawa.kochi.jp/life/dtl.php?hdnKey=1404&routekbn=S",
+        "expired": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度浄化槽設置補助金制度について - 下水道｜人吉市"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.hitoyoshi.lg.jp/q/aview/119/16922.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "高齢者の肺炎球菌感染症の予防接種費用助成について｜玉名市"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.41,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.tamana.lg.jp/q/aview/249/7468.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "税金 | くらしの情報 | 津野町"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://town.kochi-tsuno.lg.jp/section/post_2404",
+        "expired": "Fri, 28 Apr 2023 08:41:05 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "危険ブロック塀等の撤去費用を補助します / 合志市ホームページ",
+                "危険ブロック塀等の撤去費用を補助します"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.57,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.koshi.lg.jp/kiji00318528/index.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "阿波市全国大会等出場補助金のお知らせ | 阿波市",
+                "阿波市全国大会等出場補助金のお知らせ"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.58,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.awa.lg.jp/docs/2011040400093/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度 子宮頸がん検診のご案内 | 大垣市公式ホームページ／水の都おおがき",
+                "令和5年度 子宮頸がん検診のご案内"
+            ],
+            "paragraphs": [
+                "〒503-8601 岐阜県大垣市丸の内2丁目29番地",
+                "0584-81-4111",
+                "ファクス: 0584-81-4460(代表)",
+                "月曜日から金曜日",
+                "午前8時30分から午後5時15分まで（祝日、年末年始を除く）"
+            ]
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.city.ogaki.lg.jp/0000001681.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大津町起業創業事業費補助金のご案内 / 大津町ホームページ",
+                "大津町起業創業事業費補助金のご案内"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.43,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.ozu.kumamoto.jp/kiji00312202/index.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "成人歯科健康診査を実施しています／前橋市",
+                "成人歯科健康診査を実施しています"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.51,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.maebashi.gunma.jp/kenko_fukushi/1/5/4/11996.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "芦北町"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "http://www.ashikita-t.kumamoto-sgn.jp/",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナウイルス感染症により自宅療養されている方などの支援について - 四季彩のまち湯河原公式ホームページ",
+                "新型コロナウイルス感染症により自宅療養されている方などの支援について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.yugawara.kanagawa.jp/site/coronavirus-sitetop/4919.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "尾道市医師確保奨学金 - 尾道市ホームページ",
+                "尾道市医師確保奨学金"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.onomichi.hiroshima.jp/soshiki/19/1806.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度 がん検診について/ 岐南町公式ホームページ ぎなんねっと",
+                "令和5年度 がん検診について"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.ginan.lg.jp/3064.htm",
+        "expired": None
+    }
+]

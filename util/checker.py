@@ -1,8 +1,7 @@
 #!python3
-from xml.etree import ElementTree
-from lxml import etree
 from requests_html import HTML
-from util.depends import depends
+from depends.depends_404 import depends as depends_404
+from depends.depends_no_data import depends as depends_no_data
 import requests
 import jellyfish
 import re
@@ -56,8 +55,7 @@ def black_page(depends, target):
 def active_url(url):
     try:
         response = requests.get(url)
-        response.encoding = response.apparent_encoding
-        html = response.text
+        html = response.content
         text = html_text(html)
         
         return not black_page(depends, text)

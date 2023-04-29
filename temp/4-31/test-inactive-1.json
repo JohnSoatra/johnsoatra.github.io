@@ -1,0 +1,529 @@
+[
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "田原本町中小企業資金融資制度（令和5年度）／田原本町",
+                "田原本町中小企業資金融資制度（令和5年度）"
+            ],
+            "paragraphs": [
+                "Copyright Tawaramoto Town All Rights Reserved.",
+                "ページの先頭へ",
+                "Copyright Tawaramoto Town All Rights Reserved."
+            ]
+        },
+        "header-max-point": 0.4,
+        "paragraph-max-point": 0.67,
+        "redirected": False,
+        "url": "http://www.town.tawaramoto.nara.jp/soshki/sangyo/tiiki/bushiness/syoukou/yushi/550.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "「新潟県フードバンク設備整備支援事業補助金」の補助事業者を募集します。 - 新潟県ホームページ",
+                "「新潟県フードバンク設備整備支援事業補助金」の補助事業者を募集します。"
+            ],
+            "paragraphs": [
+                "県では、新型コロナウイルス感染症等の影響により生活に困窮した世帯等に対して安定した食料支援が行われるよう、フードバンク活動を行う団体が食料保管体制を強化するために行う設備整備に要する経費に対し、標記補助金を交付することとし、以下のとおり補助事業者を募集します。",
+                "＜外部リンク＞"
+            ]
+        },
+        "header-max-point": 0.7,
+        "paragraph-max-point": 0.51,
+        "redirected": False,
+        "url": "https://www.pref.niigata.lg.jp/sec/fukushihoken/20220610.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "在宅介護への支援｜横手市公式サイト",
+                "在宅介護への支援"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.45,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.yokote.lg.jp/fukushi/1001153/1003099.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "危険空家除却等補助金のご案内（令和5年9月末まで）／松原市",
+                "危険空家除却等補助金のご案内（令和5年9月末まで）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.44,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.matsubara.lg.jp/kurashi/machidukuri/4/16764.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "新型コロナウイルス感染症に対する国民健康保険料の減免 - 亀岡市公式ホームページ",
+                "新型コロナウイルス感染症に対する国民健康保険料の減免"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.63,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.kameoka.kyoto.jp/site/covid-19/3090.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "久留米市：ジュニアアスリート競技力向上支援事業",
+                "ジュニアアスリート競技力向上支援事業"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.47,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.kurume.fukuoka.jp/1060manabi/2040sports/3090athlete/4040jrimsup/index.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度子育て世帯生活支援特別給付金（ひとり親世帯以外分）／藤枝市ホームページ",
+                "令和5年度子育て世帯生活支援特別給付金（ひとり親世帯以外分）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.42,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.fujieda.shizuoka.jp/soshiki/kodomomirai/kodomo/oshirase/17466.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "和泉市の木材で建築すると補助金がもらえます（募集中）／和泉市",
+                "和泉市の木材で建築すると補助金がもらえます（募集中）"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.46,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.city.osaka-izumi.lg.jp/kakukano/sangyoubu/sangyosinkositu/nourin/izumoku/sumaidukuri.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "浄化槽設置整備事業補助金／東彼杵町",
+                "浄化槽設置整備事業補助金"
+            ],
+            "paragraphs": []
+        },
+        "header-max-point": 0.38,
+        "paragraph-max-point": 0,
+        "redirected": False,
+        "url": "https://www.town.higashisonogi.lg.jp/iju_teiju/sumai/745.html",
+        "expired": "Fri, 28 Apr 2023 08:37:55 GMT"
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：一部負担金の減免または徴収猶予 （…>国民健康保険>給付について）",
+                "一部負担金の減免または徴収猶予"
+            ],
+            "paragraphs": [
+                "2023年4月21日",
+                "ページ番号：369693"
+            ]
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0.54,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000369693.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：一部負担金の減免または徴収猶予 （…>国民健康保険>給付について）",
+                "一部負担金の減免または徴収猶予"
+            ],
+            "paragraphs": [
+                "2023年4月21日",
+                "ページ番号：369693"
+            ]
+        },
+        "header-max-point": 0.48,
+        "paragraph-max-point": 0.54,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000369693.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "大阪市：大阪市点字図書給付事業 （…>給付・助成>生活用具・住宅改修）",
+                "大阪市点字図書給付事業"
+            ],
+            "paragraphs": [
+                "2021年4月2日",
+                "ページ番号：7469"
+            ]
+        },
+        "header-max-point": 0.39,
+        "paragraph-max-point": 0.56,
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushi/page/0000007469.html",
+        "expired": None
+    },
+    {
+        "active": True,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "令和5年度 業務改善助成金のご案内 / 大牟田市",
+                "jQuery.noConflict(); jQuery(function () { function dspGlobalMenu() { var menuDiv = document.getElementById("naviContainerSP"); var img = document.getElementById("menuImg"); if (menuDiv.style.display == "block") { closeGlobalMenu(); } else { menuDiv.style.display = "block"; //img.src = " //www.city.omuta.lg.jp/dynamic/common/images/top1/hb_close.png"; } } function closeGlobalMenu() { var menuDiv = document.getElementById("naviContainerSP"); var img = document.getElementById("menuImg"); if (menuDiv.style.display == "block") { menuDiv.style.display = "none"; //img.src = "//www.city.omuta.lg.jp/dynamic/common/images/top1/hb_open.png"; } } jQuery("#menuImg").click(function () { jQuery("#menuImg").toggleClass(\"active\"); dspGlobalMenu(); }); });", "くらし・環境", "産業・経済", "健康・福祉・介護", "教育・スポーツ・文化", "令和5年度 業務改善助成金のご案内"], "paragraphs": []}, "header-max-point": 0.52, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.omuta.lg.jp/kiji00312107/index.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["川崎市：川崎市農業経営高度化支援事業補助金【生産向上等支援事業】の申請者募集について", "川崎市農業経営高度化支援事業補助金【生産向上等支援事業】の申請者募集について"], "paragraphs": ["ツイッターへのリンクは別ウィンドウで開きます", "コンテンツ番号139209", "スマートフォン表示用の情報をスキップ", "(市政に関するお問い合わせ・相談)", "よくある質問（FAQ）", "ページの先頭へ"]}, "header-max-point": 0.41, "paragraph-max-point": 0.65, "redirected": False, "url": "https://www.city.kawasaki.jp/280/page/0000139209.html", "expired": "Fri, 28 Apr 2023 08:37:55 GMT"}, {"active": True, "checked": True, "error": None, "target": {"headers": ["池田市既存民間ブロック塀等安全対策補助制度について（令和5年度 受付中）／池田市", "池田市既存民間ブロック塀等安全対策補助制度について（令和5年度 受付中）"], "paragraphs": []}, "header-max-point": 0.43, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.ikeda.osaka.jp/kurashi_tetsuduki/bousai/bosai/1531272038984.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["新型コロナウイルス感染症に感染した妊産婦への寄り添い型支援 - 神奈川県ホームページ", "新型コロナウイルス感染症に感染した妊産婦への寄り添い型支援"], "paragraphs": ["ページの先頭へ戻る"]}, "header-max-point": 0.69, "paragraph-max-point": 0.6, "redirected": False, "url": "http://www.pref.kanagawa.jp/docs/cz6/cnt/yorisoi.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["国民健康保険税（均等割・世帯割）の軽減制度 | 綾川町", "国民健康保険税（均等割・世帯割）の軽減制度"], "paragraphs": []}, "header-max-point": 0.4, "paragraph-max-point": 0, "redirected": False, "url": "https://www.town.ayagawa.lg.jp/docs/2014043000024/", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["釜石市中小企業振興資金融資制度 | 釜石市", "釜石市中小企業振興資金融資制度"], "paragraphs": []}, "header-max-point": 0.4, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.kamaishi.iwate.jp/docs/2019040400099/", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["藤岡市移住支援補助金／藤岡市", "藤岡市移住支援補助金"], "paragraphs": []}, "header-max-point": 0.38, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.fujioka.gunma.jp/shinseisho/sonota/4552.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["栗東市子育て支援ガイドについて／栗東市", "栗東市子育て支援ガイドについて"], "paragraphs": []}, "header-max-point": 0.42, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.ritto.lg.jp/kurashi_bamen/kosodate/teateshien/4729.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["セーフティネット保証制度 | 多賀町役場", "セーフティネット保証制度"], "paragraphs": []}, "header-max-point": 0.47, "paragraph-max-point": 0, "redirected": False, "url": "https://www.town.taga.lg.jp/contents_detail.php?co=kak&frmId=1349", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["ひとり親家庭の就業支援 参加者募集｜東京都", "ひとり親家庭の就業を支援します！", "「すてきみらい塾」の参加者募集について"], "paragraphs": ["ページの先頭へ戻る"]}, "header-max-point": 0.5, "paragraph-max-point": 0.6, "redirected": False, "url": "https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2022/04/08/09.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["大島町高齢者自立支援住宅改修給付事業のご案内 - 東京都大島町公式サイト", "大島町高齢者自立支援住宅改修給付事業のご案内"], "paragraphs": []}, "header-max-point": 0.46, "paragraph-max-point": 0, "redirected": False, "url": "https://www.town.oshima.tokyo.jp/soshiki/jumin/jiritujyuutaku.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["立川市ブロック塀等撤去工事等助成金について | 立川市", "立川市ブロック塀等撤去工事等助成金について"], "paragraphs": ["災害予防・訓練"]}, "header-max-point": 0.41, "paragraph-max-point": 0.39, "redirected": False, "url": "https://www.city.tachikawa.lg.jp/bosai/bosai/yobo/burokkubeihojo.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["浄化槽等設置事業費補助 | かすみがうら市公式ホームページ", "かすみがうら市ホームページ", "浄化槽等設置事業費補助"], "paragraphs": []}, "header-max-point": 0.6, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.kasumigaura.lg.jp/page/page000370.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["令和5年度各種がん検診 | 調布市", "令和5年度各種がん検診"], "paragraphs": []}, "header-max-point": 0.48, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.chofu.tokyo.jp/www/contents/1269915999518/index.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["| 道志村役場ホームページ"], "paragraphs": []}, "header-max-point": 0.6, "paragraph-max-point": 0, "redirected": False, "url": "http://www.vill.doshi.lg.jp/ka/info.php?if_id=1070&ka_id=3", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["【小川地区で新築・改築を検討している方へ】防音サッシ工事への助成制度をご活用ください | 小美玉市公式ホームページ", "【小川地区で新築・改築を検討している方へ】防音サッシ工事への助成制度をご活用ください"], "paragraphs": ["茨城空港周辺地域の航空機騒音を軽減するため、個人住宅への防音サッシ設置工事費への助成を茨城県と合同で行います。", "Lden62以上の区域において"]}, "header-max-point": 0.43, "paragraph-max-point": 0.51, "redirected": False, "url": "https://www.city.omitama.lg.jp/0000/info-0000008662-0.html", "expired": "Fri, 28 Apr 2023 08:43:30 GMT"}, {"active": True, "checked": True, "error": None, "target": {"headers": ["稲城市防犯活動実施団体などに防犯資機材を支給します 稲城市ホームページ", "稲城市防犯活動実施団体などに防犯資機材を支給します"], "paragraphs": ["更新日：2021年6月1日"]}, "header-max-point": 0.44, "paragraph-max-point": 0.44, "redirected": False, "url": "http://www.city.inagi.tokyo.jp/iza/bouhan/shikizai.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["令和５年度境港市熱中症対策エアコン購入費助成事業について：さかなと鬼太郎のまち境港市 Sakaiminato City Official Web Site", "令和５年度境港市熱中症対策エアコン購入費助成事業について"], "paragraphs": []}, "header-max-point": 0.49, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.sakaiminato.lg.jp/index.php?view=110287", "expired": "Thu, 19 Nov 1981 08:52:00 GMT"}, {"active": True, "checked": True, "error": None, "target": {"headers": ["胃がん・呼吸器(肺がん・結核）検診追加募集 | 瑞穂町ホームページ", "胃がん・呼吸器(肺がん・結核）検診追加募集"], "paragraphs": ["更新日 令和5年4月20日", "検診での早期発見と早期治療が、がんを防ぐ有効な手段です。", "呼吸器検診は、肺がん検診と結核検診を兼ねて実施します。", "〒190-1211 東京都西多摩郡瑞穂町大字石畑1970番地", "電話 042-557-5089", "ファクス 042-557-7414", "メールフォーム", "受付時間 平日の午前8時30分から午後5時まで", "ウェブサイトの品質向上のため、このページについてのご意見・ご感想をお寄せください。", "法人番号：1000020133035", "Copyright © 2017 Mizuho Town. All Rights Reserved."]}, "header-max-point": 0.45, "paragraph-max-point": 0.65, "redirected": False, "url": "https://www.town.mizuho.tokyo.jp/kenkofukushi/001/005/p006878.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["檜原村高齢者医療費助成制度 | 檜原村ホームページ", "檜原村高齢者医療費助成制度"], "paragraphs": []}, "header-max-point": 0.44, "paragraph-max-point": 0, "redirected": False, "url": "https://www.vill.hinohara.tokyo.jp/0000000247.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["幼児2人同乗用自転車購入費の一部補助 | 土浦市公式ホームページ", "土浦市公式ホームページ", "幼児2人同乗用自転車購入費の一部補助"], "paragraphs": []}, "header-max-point": 0.63, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.tsuchiura.lg.jp/page/page012323.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["令和5年度生ごみ減量化器具購入費補助金制度 | 結城市公式ホームページ", "令和5年度生ごみ減量化器具購入費補助金制度"], "paragraphs": []}, "header-max-point": 0.4, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.yuki.lg.jp/page/page000646.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["令和5年度 美唄市住宅バリアフリー改修促進助成金 ご案内 - 美唄市ホームページ", "令和5年度 美唄市住宅バリアフリー改修促進助成金 ご案内"], "paragraphs": []}, "header-max-point": 0.7, "paragraph-max-point": 0, "redirected": False, "url": "https://www.city.bibai.hokkaido.jp/soshiki/17/236.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["エラーページ | 健康と福祉のまち 北海道奈井江町ホームページ", "2023年3月31日15時00分", "新型コロナウイルス関連情報", "トップページ"], "paragraphs": []}, "header-max-point": 0.78, "paragraph-max-point": 0, "redirected": False, "url": "http://www.town.naie.hokkaido.jp/err404/", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["高齢者運転免許自主返納支援事業 – 西米良村", "高齢者運転免許自主返納支援事業"], "paragraphs": []}, "header-max-point": 0.4, "paragraph-max-point": 0, "redirected": False, "url": "https://www.vill.nishimera.lg.jp/village/a-00-villagelife/10004047", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["住宅リフォーム助成制度のご案内 | 安平町からのお知らせ | 北海道安平町", "住宅リフォーム助成制度のご案内"], "paragraphs": []}, "header-max-point": 0.51, "paragraph-max-point": 0, "redirected": False, "url": "https://www.town.abira.lg.jp/oshirase/8/11745", "expired": "0"}, {"active": True, "checked": True, "error": None, "target": {"headers": ["住宅防音工事の助成制度について｜福岡県築上町", "住宅防音工事の助成制度について"], "paragraphs": []}, "header-max-point": 0.42, "paragraph-max-point": 0, "redirected": False, "url": "https://www.town.chikujo.fukuoka.jp/s008/020/050/020/010/20140428080917.html", "expired": None}, {"active": True, "checked": True, "error": None, "target": {"headers": ["| 富士河口湖町公式ホームページ"], "paragraphs": []}, "header-max-point": 0.55, "paragraph-max-point": 0, "redirected": False, "url": "https://www.town.fujikawaguchiko.lg.jp/info/info.php?if_id=6293&ca_id=34", "expired": None}]

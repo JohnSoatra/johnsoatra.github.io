@@ -1,0 +1,74 @@
+[
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.shibayama.lg.jp/0000003976.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 403",
+        "redirected": False,
+        "url": "https://www.pref.aomori.lg.jp/soshiki/energy/enerugi/solarenergy-josei.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.mobara.chiba.jp/0000003934.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.kizugawa.lg.jp/index.cfm/20,1779,32,html",
+        "expired": "Thu, 01 Jan 1970 00:00:00 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.osaka.lg.jp/fukushima/page/0000526266.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.kozaki.chiba.jp/02kodomo/shogakukin.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": SSLError(MaxRetryError("HTTPSConnectionPool(host="www.town.ine.kyoto.jp", port=443): Max retries exceeded with url: /soshiki/hokenfukushi/fukushi/syougaihukusi/1452254545077.html (Caused by SSLError(SSLError(1, "[SSL: DH_KEY_TOO_SMALL
+        ] dh key too small (_ssl.c: 997)")))")),
+        "redirected": False,
+        "url": "http://www.town.ine.kyoto.jp/soshiki/hokenfukushi/fukushi/syougaihukusi/1452254545077.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nara.lg.jp/site/coronavirus/87196.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.kashiba.lg.jp/site/corona/30593.html",
+        "expired": None
+    }
+]

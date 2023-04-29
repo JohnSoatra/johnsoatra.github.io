@@ -1,0 +1,1217 @@
+[
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.city.takeo.lg.jp/benri/seikatsu/006512.html",
+        "expired": "Fri, 28 Apr 2023 08:34:06 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.town.yuza.yamagata.jp/education/baby_care/261c1pd0929091854.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/showa/page/0000102549.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.saitama-misato.lg.jp/0000000013.html",
+        "expired": "Fri, 28 Apr 2023 08:34:07 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": SSLError(MaxRetryError("HTTPSConnectionPool(host="tanocho.jp", port=443): Max retries exceeded with url: /kurashi/kurashi-239 (Caused by SSLError(SSLError(1, "[SSL: DH_KEY_TOO_SMALL
+        ] dh key too small (_ssl.c: 997)")))")),
+        "redirected": False,
+        "url": "https://tanocho.jp/kurashi/kurashi-239"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.sakuho.nagano.jp/chumoku/kodomoka_2672.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.city.nanyo.yamagata.jp/simin/3675",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.aizumisato.fukushima.jp/s017/20220908174448.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.vill.tamakawa.fukushima.jp/consultation/cons_child/000186.php",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/higashi/page/0000090597.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/chikusa/page/0000060228.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city-yuzawa.jp/site/iju-teiju/1430.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.tahara.aichi.jp/fukushi/1002722/1007318.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nisshin.lg.jp/kinkyu/kinkyu/sien/sienkojin/12040.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.miki.lg.jp/site/coronasupport/42238.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.yabu.hyogo.jp/soshiki/kenkofukushi/hoken_iryo/1_5/5750.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.hayashima.lg.jp/kurashitetsuzuki/community/1457354866486.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.yamanobe.yamagata.jp:443/soshiki/10/003.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.hitoyoshi.lg.jp/q/aview/751/13873.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.tamba.lg.jp/site/corona/hitorioyasetaitokubetukyuuhukinn.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nabari.lg.jp/s009/030/100/010/201502051467.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.masaki.ehime.jp/site/allkosodatetop2/14411.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.kaita.lg.jp/site/covid19-joho-kaita/116265.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.city.tsushima.lg.jp/faq/fukushiiryou/iryoukenkou/gankenshin.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.pref.kyoto.jp/anshin/20220203syogakukin.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.tochigi-sakura.lg.jp/business/000043/000255/p002414.html",
+        "expired": "-1"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.odaitown.jp/soshiki/yakuba/11/2/1986.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.kato.lg.jp/kakukanogoannai/jogesuidobu/kanri/ryoukinkankeinitsuite/9617.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.nishiaizu.fukushima.jp/site/kosodate/12472.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.nara-kawanishi.lg.jp/0000002285.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.vill.omi.nagano.jp/cgi-bin/mt/mt-search.cgi?IncludeBlogs=all&tag=%E7%A8%8E%E9%87%91&limit=20",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.ozu.kumamoto.jp/dynamic/_error/error404.aspx",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.higashimatsushima.miyagi.jp:443/index.cfm/17,17290,40,220,html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.town.satosho.okayama.jp/site/covid-19-info/5702.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.tateshina.nagano.jp/0000000035.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": SSLError(MaxRetryError("HTTPSConnectionPool(host="www.town.hyogo-taishi.lg.jp", port=443): Max retries exceeded with url: /download/fukushi/iryouyousiki/1424914968146.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED
+        ] certificate verify failed: unable to get local issuer certificate (_ssl.c: 997)")))")),
+        "redirected": False,
+        "url": "http://www.town.hyogo-taishi.lg.jp/download/fukushi/iryouyousiki/1424914968146.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.pref.gifu.lg.jp/page/11646.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.town.gojome.akita.jp/kenkouiryoufukusi/hoken/COVID/1775",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 403",
+        "redirected": False,
+        "url": "https://www.city.ichihara.chiba.jp/article?articleId=602371e7ece4651c88c1800c",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.akita.lg.jp/corona/1024928/1024929/1025211.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.koumi-town.jp/office2/archives/hoken/yobosesshu/yobou-sesshu.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.kitamoto.lg.jp/kinkyu/14249.html",
+        "expired": "Fri, 28 Apr 2023 08:34:10 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.nankan.lg.jp/page1172.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.handa.lg.jp/chikifukushi/faq/kenko/fukushi/148.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.hasami.lg.jp/machi/kurashi/9/3/1199.html",
+        "expired": "Fri, 28 Apr 2023 08:34:11 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.pref.tokushima.lg.jp/ippannokata/kenko/kosodateshien/7206433/",
+        "expired": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.ohtawara.tochigi.jp/docs/2013082764911/",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.esashi.jp/town/404.html",
+        "expired": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.taketoyo.lg.jp/error/error.html%3f",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": SSLError(MaxRetryError("HTTPSConnectionPool(host="www.town.shinonsen.hyogo.jp", port=443): Max retries exceeded with url: /page/index.php?mode=detail&detail_mode=topics&page_id=1fb94a3a17816408ca055365fb994002 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED
+        ] certificate verify failed: unable to get local issuer certificate (_ssl.c: 997)")))")),
+        "redirected": False,
+        "url": "https://www.town.shinonsen.hyogo.jp/page/index.php?mode=detail&detail_mode=topics&page_id=1fb94a3a17816408ca055365fb994002"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.kamisato.saitama.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.kamisato.saitama.jp/1132.htm"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectTimeout(MaxRetryError("HTTPConnectionPool(host="www.nishiki-machi.com", port=80): Max retries exceeded with url: /docs/2011112500164/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x14ac87b50>, "Connection to www.nishiki-machi.com timed out. (connect timeout=6)"))")),
+        "redirected": False,
+        "url": "http://www.nishiki-machi.com/docs/2011112500164/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.town.minamitane.kagoshima.jp/corona-taisaku/17.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.shimonoseki.lg.jp/site/coronataisaku/2348.html",
+        "expired": "Fri, 28 Apr 2023 08:34:12 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPConnectionPool(host="www.town.ranzan.saitama.jp", port=80): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "http://www.town.ranzan.saitama.jp/0000000181.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www2.city.mine.lg.jp/kenko_fukushi/fukushi/chiiki_fukushi/3193.html",
+        "expired": "Fri, 28 Apr 2023 08:34:12 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host="www.town.nagi.okayama.jp", port=443): Max retries exceeded with url: /gyousei/kosodate_kyouiku_bunka/kyouiku/you_shou_chu/shugakuenjo.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x14b5948b0>, "Connection to www.town.nagi.okayama.jp timed out. (connect timeout=6)"))")),
+        "redirected": False,
+        "url": "https://www.town.nagi.okayama.jp/gyousei/kosodate_kyouiku_bunka/kyouiku/you_shou_chu/shugakuenjo.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.owariasahi.lg.jp/kurasi/kenkou/seikatukonnkyuu/documents/rinzitokubetukyuuhukin.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.nagoya.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/atsuta/page/0000133802.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.pref.akita.lg.jp/pages/archive/11051",
+        "expired": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.tamura.lg.jp/soshiki/1/energysenryaku_1.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/kita/page/0000149927.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.nahari.kochi.jp/%e7%94%ba%e6%b0%91%e3%81%ae%e6%96%b9%e3%80%85%e3%81%b8/1516/",
+        "expired": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 403",
+        "redirected": False,
+        "url": "https://www.town.tachiarai.fukuoka.jp/page/page_00812.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "ページが見つかりません。"
+            ],
+            "paragraphs": []
+        },
+        "keyword": "ページが見つかりません。",
+        "tag": "header",
+        "similar-to": "404:ページが見つかりません",
+        "points": 0.88,
+        "header-max-point": 0.88,
+        "redirected": False,
+        "url": "https://town.kotake.lg.jp/_error/error404.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.kawara.fukuoka.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.kawara.fukuoka.jp/s001/070/010/010/20200421200550.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.ageo.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.ageo.lg.jp/life/1/4/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPConnectionPool(host="www.town.mishima.fukushima.jp", port=80): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "http://www.town.mishima.fukushima.jp/chiiki_seisakuka/20715"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.iwade.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.iwade.lg.jp/corona/vaccine/kyusai.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.okaya.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.okaya.lg.jp/kurashi_tetsuzuki/iryo_kenko/kenkozukuri/11169.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.minano.saitama.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.minano.saitama.jp/section/hukushi/12901/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nikaho.akita.jp/gyosei/iryo_kenko_fukushi/4062.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.yasuda.kochi.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.yasuda.kochi.jp/life/dtl.php?hdnKey=1452"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.samukawa.kanagawa.jp/soshiki/fukushi/koreikaigo/koreifukushi/info/koureishsien/16648.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.town.ooki.lg.jp/soshiki/kenkofukushi/hokenfukushi/osirase/4558.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.nagano-takamori.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.nagano-takamori.lg.jp/jigyo/5/2/1497.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.nagoya.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/moriyama/page/0000084996.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.tabuse.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.tabuse.lg.jp/www/contents/1282624436684/index.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.oi.kanagawa.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.oi.kanagawa.jp/site/iju/jutakushutoku-hojokin.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": SSLError(MaxRetryError("HTTPSConnectionPool(host="www.town.kimino.wakayama.jp", port=443): Max retries exceeded with url: /jigyosha/684.html (Caused by SSLError(SSLError(1, "[SSL: DH_KEY_TOO_SMALL
+        ] dh key too small (_ssl.c: 997)")))")),
+        "redirected": False,
+        "url": "https://www.town.kimino.wakayama.jp/jigyosha/684.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.asaka.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.asaka.lg.jp/life/1/3/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.yomitan.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.yomitan.jp/sections/fields/welfare/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.komoro.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.komoro.lg.jp/official/kanko_sangyo/noringyo/ninaiteshien_shinkishuno_hojokin/4516.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.minowa.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.minowa.lg.jp/bunka/shogai00994.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://reihoku-kumamoto.jp/dynamic/_error/error404.aspx",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.kumagaya.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.kumagaya.lg.jp/about/jigyousya/sogyosyashien.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.kawajima.saitama.jp/1346.htm",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.toki.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.toki.lg.jp/kurashi/bohan/1004663/1003975.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.yaotsu.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.yaotsu.lg.jp/1263.htm"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.city.yamagata.gifu.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.city.yamagata.gifu.jp/site/bousai/10153.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.city.kaizu.lg.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.city.kaizu.lg.jp/download/0000001001.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.komatsushima.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.komatsushima.lg.jp/docs/1945.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.town.takanezawa.tochigi.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.town.takanezawa.tochigi.jp/gyosei/biz/sougyou.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host="www.vill.nishiawakura.okayama.jp", port=443): Max retries exceeded with url: /wp/%E3%81%B2%E3%81%A8%E3%82%8A%E8%A6%AA%E5%AE%B6%E5%BA%AD%E7%AD%89%E5%8C%BB%E7%99%82%E8%B2%BB/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1693ee6b0>, "Connection to www.vill.nishiawakura.okayama.jp timed out. (connect timeout=6)"))")),
+        "redirected": False,
+        "url": "http://www.vill.nishiawakura.okayama.jp/wp/%e3%81%b2%e3%81%a8%e3%82%8a%e8%a6%aa%e5%ae%b6%e5%ba%ad%e7%ad%89%e5%8c%bb%e7%99%82%e8%b2%bb/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.kuriharacity.jp/corona/001/260/PAGE000000000000008038.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.chikuma.lg.jp/corona_joho/gurashi_seikatsu_joho/4023.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.town.misato.akita.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.town.misato.akita.jp/chihanchisho/3478"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.nikko.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.nikko.lg.jp/gakkou/shouchuu/tetsuzuki/jun-youhogo.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.mutsuzawa.chiba.jp/kurashi/__trashed-6__trashed.html",
+        "expired": "Wed, 11 Jan 1984 05:00:00 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.hidakagawa.lg.jp/hitorioyasaisikyu-korona.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.pref.hiroshima.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.pref.hiroshima.lg.jp/site/akiyataisaku/revmo.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.takayama.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.takayama.lg.jp/1012677/1012745/1012747/1012751.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.iwaki.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.iwaki.lg.jp/www/contents/1001000000049/index.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.yamanouchi.nagano.jp/akiyakazaihojo.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nakano.nagano.jp/docs/2014011500419/",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.vill.nishihara.kumamoto.jp/dynamic/_error/error404.aspx",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.kobe.lg.jp/a73576/kenko/health/infection/protection/corona/corona_kokuminnenkin.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "http://www.town.anan.nagano.jp/kankou/%E7%A9%BA%E3%81%8D%E5%AE%B6%E5%88%A9%E7%94%A8%E4%BF%83%E9%80%B2%E4%BA%8B%E6%A5%AD%E8%A3%9C%E5%8A%A9%E9%87%91/535/",
+        "expired": "Wed, 11 Jan 1984 05:00:00 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.shirakawa.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.shirakawa.lg.jp/%e3%81%b2%e3%81%a8%e3%82%8a%e8%a6%aa%e5%ae%b6%e5%ba%ad%e7%ad%89%e5%8c%bb%e7%99%82%e8%b2%bb%e5%8a%a9%e6%88%90%e5%88%b6%e5%ba%a6/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.daisen.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.daisen.lg.jp/docs/2013092500097/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.minamimakimura.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.minamimakimura.jp/main/gov/jumin/fukushi/%E7%A6%8F%E7%A5%89%E5%8C%BB%E7%99%82%E8%B2%BB%E7%B5%A6%E4%BB%98%E9%87%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.otoyo.kochi.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.otoyo.kochi.jp/life/detail.php?hdnKey=771"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.town.katsuragi.wakayama.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.town.katsuragi.wakayama.jp/010/020/030/20171019135356.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.pref.ehime.jp/h15600/energy/r04kyusokujuden.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.nagoya.jp/minami/page/0000150803.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town.takamori.kumamoto.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town.takamori.kumamoto.jp/chosha/fukushi/2019/12/post-3.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host="www.city.seki.lg.jp", port=443): Max retries exceeded with url: /0000000035.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x169ec0d90>, "Connection to www.city.seki.lg.jp timed out. (connect timeout=6)"))")),
+        "redirected": False,
+        "url": "https://www.city.seki.lg.jp/0000000035.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.fujimi.lg.jp/page/akiya-hozyo.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.tosa.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.tosa.lg.jp/life/detail.php?hdnKey=1798"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.ayase.kanagawa.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.ayase.kanagawa.jp/kurashi_tetsuzuki/jogesuido/gesuido/8491.html"
+    },
+    {
+        "active": False,
+        "checked": True,
+        "error": None,
+        "target": {
+            "headers": [
+                "- 和歌山県 那智勝浦町 - エラーページ",
+                "404エラー"
+            ],
+            "paragraphs": []
+        },
+        "keyword": "404エラー",
+        "tag": "header",
+        "similar-to": "404エラー",
+        "points": 1.0,
+        "header-max-point": 1.0,
+        "redirected": False,
+        "url": "https://www.town.nachikatsuura.wakayama.jp/Error/Error404",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPConnectionPool(host="www.vill.kunigami.okinawa.jp", port=80): Read timed out.")),
+        "redirected": False,
+        "url": "http://www.vill.kunigami.okinawa.jp/birth/childcare/support2/support2-2/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.town-ono.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.town-ono.jp/0000000041.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPConnectionPool(host="www.vill.tokashiki.okinawa.jp", port=80): Read timed out.")),
+        "redirected": False,
+        "url": "http://www.vill.tokashiki.okinawa.jp/archives/17849"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.city.gujo.gifu.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.city.gujo.gifu.jp/admin/detail/7186.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.town.hisayama.fukuoka.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.town.hisayama.fukuoka.jp/gyosei/covid19/for_chomin_1/for_chomin/2432.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.gero.lg.jp/site/covid19/18376.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPConnectionPool(host="www.vill.kitanakagusuku.lg.jp", port=80): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "http://www.vill.kitanakagusuku.lg.jp/kakuka/fukushi/jidou/teate/185.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.sayama.saitama.jp/fukushi/chiikifukushi/nisseki/saigaikyuenbusshi.html",
+        "expired": "Fri, 28 Apr 2023 08:34:16 GMT"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://vill.toho-info.com/detail?num=1141",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.vill.shirakawa.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.vill.shirakawa.lg.jp/1103.htm"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host="www.city.hashima.lg.jp", port=443): Read timed out. (read timeout=6)")),
+        "redirected": False,
+        "url": "https://www.city.hashima.lg.jp/0000000230.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 403",
+        "redirected": False,
+        "url": "https://www.city.urasoe.lg.jp/article?articleId=60e4ffecfd0cbe0821fbd5e5",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.ichinomiya.aichi.jp/covid19/1033847/1035283.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.arao.lg.jp/0/4925.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPSConnectionPool(host="www.town.ino.kochi.jp", port=443): Read timed out.")),
+        "redirected": False,
+        "url": "https://www.town.ino.kochi.jp/bousai/bousai_road/2069/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPConnectionPool(host="www.town.shoo.lg.jp", port=80): Read timed out.")),
+        "redirected": False,
+        "url": "http://www.town.shoo.lg.jp/business/216"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host="www.town.mitake.lg.jp", port=443): Max retries exceeded with url: /business/business/agriculture/post0008404/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x16df43a60>, "Connection to www.town.mitake.lg.jp timed out. (connect timeout=6)"))")),
+        "redirected": False,
+        "url": "https://www.town.mitake.lg.jp/business/business/agriculture/post0008404/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host="www.mext.go.jp", port=443): Max retries exceeded with url: /a_menu/hyouka/kekka/08100105/044.htm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x16a5eff40>, "Connection to www.mext.go.jp timed out. (connect timeout=6)"))")),
+        "redirected": False,
+        "url": "https://www.mext.go.jp/a_menu/hyouka/kekka/08100105/044.htm"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPConnectionPool(host="www.town.matsubushi.lg.jp", port=80): Read timed out.")),
+        "redirected": False,
+        "url": "http://www.town.matsubushi.lg.jp/www/contents/1260235590580/index.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(ReadTimeoutError("HTTPConnectionPool(host="www.town.nishihara.okinawa.jp", port=80): Read timed out.")),
+        "redirected": False,
+        "url": "http://www.town.nishihara.okinawa.jp/goven-service/02/pension-system.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.town.yonabaru.okinawa.jp/kurashi/kenkoutoiryou/tokuteikenshin_gankenshin/index.html",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.town.kikai.lg.jp", port=80): Max retries exceeded with url: /fukushi/jido-iryoujyosei.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16a43e260>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.town.kikai.lg.jp/fukushi/jido-iryoujyosei.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPSConnectionPool(host="www.town.minamiosumi.lg.jp", port=443): Max retries exceeded with url: /chominhoken/20200903nennkinn.html (Caused by NewConnectionError("<urllib3.connection.HTTPSConnection object at 0x16e9b9030>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "https://www.town.minamiosumi.lg.jp/chominhoken/20200903nennkinn.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPSConnectionPool(host="www.yoron.jp", port=443): Max retries exceeded with url: /cal_copy/pub/detail.aspx?c_id=49&id=1073&sely=2011&selm=12&seld=15&type=week (Caused by NewConnectionError("<urllib3.connection.HTTPSConnection object at 0x16e9bb790>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "https://www.yoron.jp/cal_copy/pub/detail.aspx?c_id=49&id=1073&sely=2011&selm=12&seld=15&type=week"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.tokunoshima-town.org", port=80): Max retries exceeded with url: /gakkokyoikuka/kurashi/kyoiku/kyoiku/gakko/shugakuenjo.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16ea37220>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.tokunoshima-town.org/gakkokyoikuka/kurashi/kyoiku/kyoiku/gakko/shugakuenjo.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="mishimamura.com", port=80): Max retries exceeded with url: /teijuiju/josei/ (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16e9b88e0>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://mishimamura.com/teijuiju/josei/"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="town.nakatane.kagoshima.jp", port=80): Max retries exceeded with url: /ekanri/kyoiku-bunka/kyoiku/shugakuenjo/shogakukinsedo.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16e71c370>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://town.nakatane.kagoshima.jp/ekanri/kyoiku-bunka/kyoiku/shugakuenjo/shogakukinsedo.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.town.wadomari.lg.jp", port=80): Max retries exceeded with url: /hukusi/kurashi/iryohoken/iryohoken.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16e71e230>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.town.wadomari.lg.jp/hukusi/kurashi/iryohoken/iryohoken.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.vill.yamato.lg.jp", port=80): Max retries exceeded with url: /hoken/kurashi/fukushi-kaigo/jiritsushien.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16e71db10>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.vill.yamato.lg.jp/hoken/kurashi/fukushi-kaigo/jiritsushien.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.town.tatsugo.lg.jp", port=80): Max retries exceeded with url: /chouminzeimu/kurashi/hoken-nenkin/ichijikin.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16a155d80>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.town.tatsugo.lg.jp/chouminzeimu/kurashi/hoken-nenkin/ichijikin.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPSConnectionPool(host="www.town.amagi.lg.jp", port=443): Max retries exceeded with url: /docs/1071.html (Caused by NewConnectionError("<urllib3.connection.HTTPSConnection object at 0x16a155210>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "https://www.town.amagi.lg.jp/docs/1071.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.uken.net", port=80): Max retries exceeded with url: /gakkoukyouiku/syuugakuennjyoseido.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16a156950>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.uken.net/gakkoukyouiku/syuugakuennjyoseido.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": "Client error responses: 404",
+        "redirected": False,
+        "url": "https://www.city.ukiha.fukuoka.jp/dynamic/_error/error404.aspx",
+        "expired": None
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.town.setouchi.lg.jp", port=80): Max retries exceeded with url: /fukushi/juminzeihikazeisetaitonitaisururinjitokubetsukyufukin.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16a154be0>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.town.setouchi.lg.jp/fukushi/juminzeihikazeisetaitonitaisururinjitokubetsukyufukin.html"
+    },
+    {
+        "active": False,
+        "checked": False,
+        "error": ConnectionError(MaxRetryError("HTTPConnectionPool(host="www.town.isen.kagoshima.jp", port=80): Max retries exceeded with url: /kurasi/kurashi/hoken/kokuminnenkin/shogainenkin.html (Caused by NewConnectionError("<urllib3.connection.HTTPConnection object at 0x16a1566e0>: Failed to establish a new connection: [Errno 8
+        ] nodename nor servname provided, or not known"))")),
+        "redirected": False,
+        "url": "http://www.town.isen.kagoshima.jp/kurasi/kurashi/hoken/kokuminnenkin/shogainenkin.html"
+    }
+]
