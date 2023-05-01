@@ -16,7 +16,7 @@ requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 __separator = '\||-|:'
 __header_min_length = 3
 __paragraph_min_length = 7
-__p_container = 'self::div or self::span'
+__container = 'self::div or self::span or self table'
 __header_xpaths = [
     '//title',
     '//h1[self::*//text() and last()=1]',
@@ -24,10 +24,18 @@ __header_xpaths = [
 ]
 __paragraph_xpaths = [
     'p[@class="no_data"]',
-    '//h1[self::*//text()]/descendant::p[1]',
-    f'//*[({__p_container}) and self::*//h1[self::*//text()] and self::*/*[last()=1]]/following-sibling::*[1][{__p_container}]//p[1]'
+    '//h1[self::*//text()]/following-sibling::p[1]',
+    '//h1[self::*//text()]/following-sibling::*//p[1]',
+    f'//*[({__container}) and self::*//h1[self::*//text()] and self::*/*[last()=1]]/following-sibling::*[1][{__container}]//p[1]'
 ]
-
+__content_xpath = [
+    f'''
+        //h1[self::*//text()]/following-sibling::*|
+        //h1[self::*//text()]/following-sibling::*//*|
+        //*[self::*//h1[self::*//text()] and self::*/*[last()=1]]/following-sibling::*[1]//*
+    '''
+]
+# //h1[self::*//text()]/following-sibling::p[1]|//h1[self::*//text()]/following-sibling::*//p[1]|//*[({self::div or self::span}) and self::*//h1[self::*//text()] and self::*/*[last()=1]]/following-sibling::*[1][{self::div or self::span}]//p[1]
 # ---------------------- helpers
 
 def strip(text):
@@ -98,89 +106,89 @@ def __bad_page(
     headers = highlight['headers']
     paragraphs = highlight['paragraphs']
     
-    if 'absent' in targets:
-        if len(headers):
-            header_similar = ''
-            header_keyword = ''
-            
-            for depend in depends_404 + (depends if type(depends) == list else []):
-                for header in headers:                
-                    for token_header in re.split(__separator + (separator if separator else ''), header):
-                        token_header = strip(token_header)
+    page = {}
+    
+    if len(headers):
+        header_similar = ''
+        header_keyword = ''
+        
+        for depend in depends_404 + (depends if type(depends) == list else []):
+            for header in headers:                
+                for token_header in re.split(__separator + (separator if separator else ''), header):
+                    token_header = strip(token_header)
+                    
+                    if len(token_header) >= __header_min_length:
+                        s1 = jellyfish.jaro_similarity(depend, token_header)
+                        s2 = jellyfish.jaro_winkler_similarity(depend, token_header)
                         
-                        if len(token_header) >= __header_min_length:
-                            s1 = jellyfish.jaro_similarity(depend, token_header)
-                            s2 = jellyfish.jaro_winkler_similarity(depend, token_header)
-                            
-                            points = (s1 + s2) / 2
-                            
-                            if points > header_max_point:
-                                header_max_point = points
-                                header_similar = depend
-                                header_keyword = token_header
-                                
-                            if points >= header_min_point:
-                                return ({
-                                    'active': False,
-                                    'checked': True,
-                                    'error': False,
-                                    'highlight': highlight,
-                                    
-                                    'keyword': token_header,
-                                    'tag': 'header',
-                                    'similar-to': depend,
-                                    'points': round(points, 2),
-                                    'header-max-point': round(header_max_point, 2)
-                                })
-
-            header_obj = {
-                'header-keyword': header_keyword,
-                'header-similar-to': header_similar,
-                'header-max-point': round(header_max_point, 2),
-            }
-
-    if 'ignorant' in targets:
-        if len(paragraphs):
-            paragraph_similar = ''
-            paragraph_keyword = ''
-            
-            for depend in depends_no_data + (depends if type(depends) == list else []):
-                for paragraph in paragraphs:
-                    for token_paragraph in re.split(__separator + (separator if separator else ''), paragraph):
-                        token_paragraph = strip(token_paragraph)
+                        points = (s1 + s2) / 2
                         
-                        if len(token_paragraph) >= __paragraph_min_length:
-                            s1 = jellyfish.jaro_similarity(depend, token_paragraph)
-                            s2 = jellyfish.jaro_winkler_similarity(depend, token_paragraph)
+                        if points > header_max_point:
+                            header_max_point = points
+                            header_similar = depend
+                            header_keyword = token_header
                             
-                            points = (s1 + s2) / 2
-                            
-                            if points > paragraph_max_point:
-                                paragraph_max_point = points
-                                paragraph_similar = depend
-                                paragraph_keyword = token_paragraph
+                        if points >= header_min_point:
+                            return ({
+                                'active': False,
+                                'checked': True,
+                                'error': False,
+                                'highlight': highlight,
                                 
-                            if points >= paragraph_min_point:
-                                return ({
-                                    'active': False,
-                                    'checked': True,
-                                    'error': False,
-                                    'highlight': highlight,
-                                    
-                                    'keyword': token_paragraph,
-                                    'tag': 'paragraph',
-                                    'similar-to': depend,
-                                    'points': round(points, 2),
-                                    'paragraph-max-point': round(paragraph_max_point, 2),
-                                    
-                                    **header_obj
-                                })
+                                'keyword': token_header,
+                                'tag': 'header',
+                                'similar-to': depend,
+                                'points': round(points, 2),
+                                'header-max-point': round(header_max_point, 2)
+                            })
 
-            paragraph_obj = {
-                'paragraph-keyword': paragraph_keyword,
-                'paragraph-similar-to': paragraph_similar,
-                'paragraph-max-point': round(paragraph_max_point, 2)        
-            }
+        header_obj = {
+            'header-keyword': header_keyword,
+            'header-similar-to': header_similar,
+            'header-max-point': round(header_max_point, 2),
+        }
+
+    if len(paragraphs):
+        paragraph_similar = ''
+        paragraph_keyword = ''
+        
+        for depend in depends_no_data + (depends if type(depends) == list else []):
+            for paragraph in paragraphs:
+                for token_paragraph in re.split(__separator + (separator if separator else ''), paragraph):
+                    token_paragraph = strip(token_paragraph)
+                    
+                    if len(token_paragraph) >= __paragraph_min_length:
+                        s1 = jellyfish.jaro_similarity(depend, token_paragraph)
+                        s2 = jellyfish.jaro_winkler_similarity(depend, token_paragraph)
+                        
+                        points = (s1 + s2) / 2
+                        
+                        if points > paragraph_max_point:
+                            paragraph_max_point = points
+                            paragraph_similar = depend
+                            paragraph_keyword = token_paragraph
+                            
+                        if points >= paragraph_min_point:
+                            return ({
+                                'active': False,
+                                'checked': True,
+                                'error': False,
+                                'highlight': highlight,
+                                
+                                'keyword': token_paragraph,
+                                'tag': 'paragraph',
+                                'similar-to': depend,
+                                'points': round(points, 2),
+                                'paragraph-max-point': round(paragraph_max_point, 2),
+                                
+                                **header_obj
+                            })
+
+        paragraph_obj = {
+            'paragraph-keyword': paragraph_keyword,
+            'paragraph-similar-to': paragraph_similar,
+            'paragraph-max-point': round(paragraph_max_point, 2)        
+        }
     
     return {
         'active': True,
@@ -207,9 +215,8 @@ def view_page(
     header_min_point=0.8,
     paragraph_min_point=0.85,
     targets={
-        'absent': True,
-        'ignorant': False,
-        'empty': False,
+        'absent': True, # page in moved or change or not exited
+        'ignorant': False # page is lack of information
     }
 ):
     try:
